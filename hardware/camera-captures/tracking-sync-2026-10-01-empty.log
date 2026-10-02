@@ -1,0 +1,80 @@
+0.225 camera I (130307) freddy_person: NO_PERSON t_ms=129234 frame=320,240 laI (299227) freddy_person: NO_PERSON t_ms=298152 frame=320,240 latency_ms=234 rejected_full_frame=1
+0.474 camera I (299477) freddy_person: NO_PERSON t_ms=298405 frame=320,240 latency_ms=237 rejected_full_frame=1
+0.730 camera I (299727) freddy_person: NO_PERSON t_ms=298652 frame=320,240 latency_ms=234 rejected_full_frame=1
+0.982 camera I (299977) freddy_person: NO_PERSON t_ms=298904 frame=320,240 latency_ms=236 rejected_full_frame=1
+1.232 camera I (300227) freddy_person: NO_PERSON t_ms=299154 frame=320,240 latency_ms=236 rejected_full_frame=1
+1.479 camera I (300477) freddy_person: NO_PERSON t_ms=299403 frame=320,240 latency_ms=235 rejected_full_frame=1
+1.733 camera I (300727) freddy_person: NO_PERSON t_ms=299653 frame=320,240 latency_ms=235 rejected_full_frame=1
+1.974 camera I (300977) freddy_person: NO_PERSON t_ms=299902 frame=320,240 latency_ms=234 rejected_full_frame=1
+2.235 camera I (301227) freddy_person: PERSON t_ms=300154 score=0.459 cx=222 cy=119 box=134,0,311,239 frame=320,240 latency_ms=237 gaze_valid=0
+2.479 camera I (301487) freddy_person: NO_PERSON t_ms=300409 frame=320,240 latency_ms=241 rejected_full_frame=1
+2.739 camera I (301737) freddy_person: NO_PERSON t_ms=300667 frame=320,240 latency_ms=239 rejected_full_frame=1
+2.991 camera I (301987) freddy_person: NO_PERSON t_ms=300916 frame=320,240 latency_ms=238 rejected_full_frame=1
+3.243 camera I (302237) freddy_person: NO_PERSON t_ms=301162 frame=320,240 latency_ms=235 rejected_full_frame=1
+3.495 camera I (302487) freddy_person: NO_PERSON t_ms=301414 frame=320,240 latency_ms=236 rejected_full_frame=1
+3.741 camera I (302737) freddy_person: NO_PERSON t_ms=301664 frame=320,240 latency_ms=236 rejected_full_frame=1
+3.985 camera I (302987) freddy_person: PERSON t_ms=301914 score=0.459 cx=168 cy=116 box=27,0,309,232 frame=320,240 latency_ms=237 gaze_valid=0
+4.238 camera I (303237) freddy_person: PERSON t_ms=302165 score=0.468 cx=224 cy=119 box=137,0,312,239 frame=320,240 latency_ms=237 gaze_valid=0
+4.482 camera I (303487) freddy_person: NO_PERSON t_ms=302414 frame=320,240 latency_ms=236 rejected_full_frame=1
+4.741 camera I (303737) freddy_person: NO_PERSON t_ms=302664 frame=320,240 latency_ms=237 rejected_full_frame=1
+4.983 camera I (303987) freddy_person: NO_PERSON t_ms=302913 frame=320,240 latency_ms=235 rejected_full_frame=1
+5.241 camera I (304237) freddy_person: NO_PERSON t_ms=303163 frame=320,240 latency_ms=236 rejected_full_frame=1
+5.490 camera I (304487) freddy_person: NO_PERSON t_ms=303413 frame=320,240 latency_ms=235 rejected_full_frame=1
+5.739 camera I (304737) freddy_person: NO_PERSON t_ms=303666 frame=320,240 latency_ms=238 rejected_full_frame=1
+5.990 camera I (304987) freddy_person: NO_PERSON t_ms=303912 frame=320,240 latency_ms=234 rejected_full_frame=1
+6.234 camera I (305237) freddy_person: PERSON t_ms=304162 score=0.442 cx=228 cy=119 box=140,0,317,239 frame=320,240 latency_ms=234 gaze_valid=0
+6.488 camera I (305487) freddy_person: NO_PERSON t_ms=304416 frame=320,240 latency_ms=238 rejected_full_frame=1
+6.743 camera I (305737) freddy_person: NO_PERSON t_ms=304665 frame=320,240 latency_ms=237 rejected_full_frame=1
+6.995 camera I (305987) freddy_person: NO_PERSON t_ms=304912 frame=320,240 latency_ms=235 rejected_full_frame=1
+7.240 camera I (306237) freddy_person: PERSON t_ms=305162 score=0.492 cx=227 cy=119 box=138,0,317,239 frame=320,240 latency_ms=234 gaze_valid=0
+7.492 camera I (306487) freddy_person: NO_PERSON t_ms=305417 frame=320,240 latency_ms=239 rejected_full_frame=1
+7.752 camera I (306747) freddy_person: NO_PERSON t_ms=305674 frame=320,240 latency_ms=236 rejected_full_frame=1
+8.009 camera I (306997) freddy_person: PERSON t_ms=305926 score=0.606 cx=225 cy=119 box=138,0,313,239 frame=320,240 latency_ms=238 gaze_valid=0
+8.246 camera I (307247) freddy_person: NO_PERSON t_ms=306174 frame=320,240 latency_ms=237 rejected_full_frame=1
+8.504 camera I (307497) freddy_person: NO_PERSON t_ms=306423 frame=320,240 latency_ms=235 rejected_full_frame=1
+8.748 camera I (307747) freddy_person: NO_PERSON t_ms=306673 frame=320,240 latency_ms=235 rejected_full_frame=1
+8.995 camera I (307997) freddy_person: NO_PERSON t_ms=306924 frame=320,240 latency_ms=236 rejected_full_frame=1
+9.243 camera I (308247) freddy_person: NO_PERSON t_ms=307175 frame=320,240 latency_ms=237 rejected_full_frame=1
+9.499 camera I (308497) freddy_person: NO_PERSON t_ms=307424 frame=320,240 latency_ms=236 rejected_full_frame=1
+9.741 camera I (308747) freddy_person: NO_PERSON t_ms=307672 frame=320,240 latency_ms=235 rejected_full_frame=1
+9.995 camera I (308997) freddy_person: NO_PERSON t_ms=307924 frame=320,240 latency_ms=236 rejected_full_frame=1
+10.246 camera I (309247) freddy_person: NO_PERSON t_ms=308175 frame=320,240 latency_ms=237 rejected_full_frame=1
+10.493 camera I (309497) freddy_person: NO_PERSON t_ms=308423 frame=320,240 latency_ms=235 rejected_full_frame=1
+10.750 camera I (309747) freddy_person: NO_PERSON t_ms=308672 frame=320,240 latency_ms=234 rejected_full_frame=1
+10.993 camera I (309997) freddy_person: NO_PERSON t_ms=308924 frame=320,240 latency_ms=236 rejected_full_frame=1
+11.243 camera I (310247) freddy_person: PERSON t_ms=309173 score=0.442 cx=228 cy=119 box=139,0,317,239 frame=320,240 latency_ms=235 gaze_valid=0
+11.494 camera I (310497) freddy_person: PERSON t_ms=309425 score=0.492 cx=225 cy=119 box=138,0,312,239 frame=320,240 latency_ms=237 gaze_valid=0
+11.740 camera I (310747) freddy_person: NO_PERSON t_ms=309672 frame=320,240 latency_ms=234 rejected_full_frame=1
+12.003 camera I (310997) freddy_person: NO_PERSON t_ms=309925 frame=320,240 latency_ms=237 rejected_full_frame=1
+12.245 camera I (311247) freddy_person: PERSON t_ms=310174 score=0.515 cx=224 cy=119 box=137,0,311,239 frame=320,240 latency_ms=236 gaze_valid=0
+12.497 camera I (311497) freddy_person: PERSON t_ms=310425 score=0.586 cx=167 cy=119 box=26,0,309,239 frame=320,240 latency_ms=237 gaze_valid=0
+12.750 camera I (311747) freddy_person: PERSON t_ms=310674 score=0.508 cx=168 cy=118 box=25,0,312,236 frame=320,240 latency_ms=236 gaze_valid=1
+12.995 camera I (311997) freddy_person: NO_PERSON t_ms=310926 frame=320,240 latency_ms=238 rejected_full_frame=1
+13.247 camera I (312247) freddy_person: NO_PERSON t_ms=311172 frame=320,240 latency_ms=234 rejected_full_frame=1
+13.501 camera I (312497) freddy_person: PERSON t_ms=311424 score=0.405 cx=224 cy=119 box=136,0,312,239 frame=320,240 latency_ms=236 gaze_valid=0
+13.743 camera I (312747) freddy_person: NO_PERSON t_ms=311673 frame=320,240 latency_ms=235 rejected_full_frame=1
+13.999 camera I (312997) freddy_person: NO_PERSON t_ms=311923 frame=320,240 latency_ms=235 rejected_full_frame=1
+14.247 camera I (313247) freddy_person: PERSON t_ms=312173 score=0.364 cx=225 cy=119 box=138,0,313,239 frame=320,240 latency_ms=236 gaze_valid=0
+14.502 camera I (313497) freddy_person: NO_PERSON t_ms=312427 frame=320,240 latency_ms=239 rejected_full_frame=1
+14.743 camera I (313747) freddy_person: NO_PERSON t_ms=312674 frame=320,240 latency_ms=236 rejected_full_frame=1
+15.002 camera I (313997) freddy_person: NO_PERSON t_ms=312924 frame=320,240 latency_ms=236 rejected_full_frame=1
+15.247 camera I (314247) freddy_person: NO_PERSON t_ms=313172 frame=320,240 latency_ms=234 rejected_full_frame=1
+15.494 camera I (314497) freddy_person: NO_PERSON t_ms=313426 frame=320,240 latency_ms=238 rejected_full_frame=1
+15.742 camera I (314747) freddy_person: NO_PERSON t_ms=313672 frame=320,240 latency_ms=234 rejected_full_frame=1
+15.996 camera I (314997) freddy_person: NO_PERSON t_ms=313925 frame=320,240 latency_ms=237 rejected_full_frame=1
+16.249 camera I (315247) freddy_person: NO_PERSON t_ms=314177 frame=320,240 latency_ms=239 rejected_full_frame=1
+16.493 camera I (315497) freddy_person: NO_PERSON t_ms=314423 frame=320,240 latency_ms=235 rejected_full_frame=1
+16.741 camera I (315747) freddy_person: NO_PERSON t_ms=314672 frame=320,240 latency_ms=235 rejected_full_frame=1
+16.998 camera I (315997) freddy_person: NO_PERSON t_ms=314924 frame=320,240 latency_ms=237 rejected_full_frame=1
+17.252 camera I (316247) freddy_person: NO_PERSON t_ms=315175 frame=320,240 latency_ms=237 rejected_full_frame=1
+17.504 camera I (316497) freddy_person: NO_PERSON t_ms=315424 frame=320,240 latency_ms=236 rejected_full_frame=1
+17.747 camera I (316747) freddy_person: PERSON t_ms=315673 score=0.415 cx=226 cy=119 box=138,0,314,239 frame=320,240 latency_ms=235 gaze_valid=0
+18.007 camera I (316997) freddy_person: NO_PERSON t_ms=315926 frame=320,240 latency_ms=238 rejected_full_frame=1
+18.250 camera I (317247) freddy_person: NO_PERSON t_ms=316175 frame=320,240 latency_ms=237 rejected_full_frame=1
+18.499 camera I (317497) freddy_person: NO_PERSON t_ms=316423 frame=320,240 latency_ms=235 rejected_full_frame=1
+18.745 camera I (317747) freddy_person: PERSON t_ms=316675 score=0.523 cx=226 cy=119 box=138,0,314,239 frame=320,240 latency_ms=237 gaze_valid=0
+18.996 camera I (317997) freddy_person: NO_PERSON t_ms=316923 frame=320,240 latency_ms=235 rejected_full_frame=1
+19.246 camera I (318247) freddy_person: NO_PERSON t_ms=317175 frame=320,240 latency_ms=237 rejected_full_frame=1
+19.493 camera I (318497) freddy_person: NO_PERSON t_ms=317425 frame=320,240 latency_ms=237 rejected_full_frame=1
+19.747 camera I (318747) freddy_person: NO_PERSON t_ms=317672 frame=320,240 latency_ms=234 rejected_full_frame=1
+19.994 camera I (318997) freddy_person: NO_PERSON t_ms=317925 frame=320,240 latency_ms=237 rejected_full_frame=1

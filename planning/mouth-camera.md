@@ -1,0 +1,12 @@
+# Freddy mouth camera placement trial
+
+Joshua wants to try the Arducam OV5647 day/night camera with two IR LED boards inside Freddy's mouth. The goal is to make the hardware read as part of the character while the mask rests in the seated skeleton's lap. This is a placement trial, not yet a verified fit or sightline. The previous chair-armrest DFRobot pod is a fallback; its geometry is not reusable without redesign.
+
+The [Arducam B003503-type module](https://www.arducam.com/arducam-m12-night-vision-ir-cut-raspberry-pi-camera.html) uses a 36 × 36 mm camera board, two separate IR LED boards, and an automatically switched IR-cut filter. Its lens is about 105° horizontally. The IR lighting and filter respond to ambient light rather than person detection, so their visible appearance will not automatically pulse with the red-eye tracking state. The full three-board assembly, heat sinks, flex bend, mouth opening, teeth, and muzzle clearances must be measured from the actual parts and mask. Do not cut the mask or design a final housing from the product photo alone.
+
+1. Hold the unpowered camera assembly in the mouth at the mask's intended seated angle. Check the view from visitors approaching left, center, and right; avoid letting the upper muzzle or teeth block the lens or LEDs.
+2. Boot the Pi and capture day and night frames from that temporary position. Compare with the DFRobot's view, checking person size, usable horizontal coverage, focus, and IR reflections from the mouth interior. Keep each emitter optically separated from the lens, especially if a front cover is used.
+3. View the unlit and IR-lit mouth from the walkway. The IR emitters may show only faint red points rather than an area glow; their exact wavelength is not established. If a visible eerie aura is wanted, prototype a separate low-brightness visible red light, visually diffused around the mouth and shielded from the camera lens. Its on/off timing can later follow the same valid-person state as the eyes.
+4. Only after the images and appearance work, measure a removable mount, cable exit, LED heat-sink clearance, rain shielding, and service access. Retain a clear, non-reflective optical path; do not put lens and emitters behind one close, shared clear window.
+
+The Pi still sends one gaze packet stream to both ESP32 eyes. Mouth position changes camera-to-eye calibration, so tune gaze mapping after the mount angle is fixed. Person-detector speed and reliability on the Pi remain unmeasured.

@@ -1,0 +1,52 @@
+I (50984) freddy_person: PERSON t_ms=50020 score=0.848 cx=61 cy=I (108564) freddy_person: PERSON t_ms=107600 score=0.723 cx=214 cy=138 box=123,37,306,239 frame=320,240 latency_ms=233
+I (108814) freddy_person: PERSON t_ms=107851 score=0.810 cx=216 cy=137 box=123,35,310,239 frame=320,240 latency_ms=233
+I (109064) freddy_person: PERSON t_ms=108101 score=0.901 cx=219 cy=138 box=128,40,311,237 frame=320,240 latency_ms=233
+Saved /Users/joshua/Code/3d-creations/freddy_fazbear_digital_eyes/hardware/camera-captures/person-detector-left-image-frame-421.jpg (6708 bytes)
+I (109454) freddy_person: PERSON t_ms=108490 score=0.707 cx=210 cy=139 box=119,39,301,239 frame=320,240 latency_ms=373
+I (109704) freddy_person: PERSON t_ms=108740 score=0.888 cx=218 cy=139 box=120,39,316,239 frame=320,240 latency_ms=233
+I (109954) freddy_person: PERSON t_ms=108990 score=0.734 cx=214 cy=131 box=125,41,304,221 frame=320,240 latency_ms=233
+I (110204) freddy_person: PERSON t_ms=109241 score=0.839 cx=209 cy=139 box=123,41,296,238 frame=320,240 latency_ms=233
+I (110454) freddy_person: PERSON t_ms=109490 score=0.834 cx=214 cy=137 box=128,40,301,235 frame=320,240 latency_ms=233
+I (110704) freddy_person: PERSON t_ms=109740 score=0.824 cx=217 cy=139 box=123,40,312,239 frame=320,240 latency_ms=233
+I (110954) freddy_person: PERSON t_ms=109990 score=0.713 cx=219 cy=139 box=132,40,307,239 frame=320,240 latency_ms=233
+I (111204) freddy_person: PERSON t_ms=110240 score=0.834 cx=214 cy=139 box=127,39,302,239 frame=320,240 latency_ms=233
+I (111454) freddy_person: PERSON t_ms=110490 score=0.755 cx=220 cy=138 box=130,39,310,238 frame=320,240 latency_ms=233
+I (111704) freddy_person: PERSON t_ms=110740 score=0.839 cx=218 cy=140 box=126,41,310,239 frame=320,240 latency_ms=233
+I (111954) freddy_person: PERSON t_ms=110991 score=0.599 cx=215 cy=138 box=118,37,312,239 frame=320,240 latency_ms=233
+I (112204) freddy_person: PERSON t_ms=111241 score=0.888 cx=218 cy=139 box=128,39,308,239 frame=320,240 latency_ms=233
+I (112454) freddy_person: PERSON t_ms=111490 score=0.786 cx=221 cy=138 box=128,40,314,237 frame=320,240 latency_ms=233
+I (112704) freddy_person: PERSON t_ms=111740 score=0.702 cx=217 cy=139 box=127,40,308,239 frame=320,240 latency_ms=233
+I (112954) freddy_person: PERSON t_ms=111990 score=0.829 cx=222 cy=139 box=128,40,317,238 frame=320,240 latency_ms=233
+I (113204) freddy_person: PERSON t_ms=112240 score=0.884 cx=220 cy=138 box=131,38,309,239 frame=320,240 latency_ms=233
+I (113454) freddy_person: PERSON t_ms=112491 score=0.631 cx=212 cy=138 box=122,41,302,235 frame=320,240 latency_ms=233
+I (113704) freddy_person: PERSON t_ms=112740 score=0.897 cx=219 cy=139 box=126,39,312,239 frame=320,240 latency_ms=233
+I (113954) freddy_person: PERSON t_ms=112990 score=0.786 cx=221 cy=137 box=132,39,310,236 frame=320,240 latency_ms=233
+I (114204) freddy_person: PERSON t_ms=113240 score=0.815 cx=208 cy=136 box=127,39,290,234 frame=320,240 latency_ms=233
+Saved /Users/joshua/Code/3d-creations/freddy_fazbear_digital_eyes/hardware/camera-captures/person-detector-left-image-frame-441.jpg (6659 bytes)
+I (114594) freddy_person: PERSON t_ms=113629 score=0.566 cx=217 cy=137 box=130,38,304,237 frame=320,240 latency_ms=372
+I (114844) freddy_person: PERSON t_ms=113881 score=0.530 cx=204 cy=138 box=102,40,307,237 frame=320,240 latency_ms=233
+I (115094) freddy_person: PERSON t_ms=114130 score=0.740 cx=206 cy=135 box=127,41,286,230 frame=320,240 latency_ms=233
+I (115344) freddy_person: PERSON t_ms=114381 score=0.690 cx=212 cy=136 box=129,39,295,233 frame=320,240 latency_ms=233
+I (115594) freddy_person: PERSON t_ms=114630 score=0.791 cx=202 cy=136 box=125,38,279,235 frame=320,240 latency_ms=233
+I (115844) freddy_person: PERSON t_ms=114880 score=0.723 cx=208 cy=136 box=127,38,290,235 frame=320,240 latency_ms=233
+I (116094) freddy_person: PERSON t_ms=115130 score=0.820 cx=213 cy=138 box=125,38,302,239 frame=320,240 latency_ms=233
+I (116344) freddy_person: PERSON t_ms=115380 score=0.573 cx=206 cy=136 box=130,39,282,233 frame=320,240 latency_ms=233
+I (116594) freddy_person: PERSON t_ms=115630 score=0.745 cx=208 cy=134 box=126,39,291,230 frame=320,240 latency_ms=233
+I (116844) freddy_person: PERSON t_ms=115881 score=0.786 cx=203 cy=138 box=122,39,285,238 frame=320,240 latency_ms=233
+I (117094) freddy_person: PERSON t_ms=116130 score=0.875 cx=218 cy=138 box=128,37,308,239 frame=320,240 latency_ms=233
+I (117344) freddy_person: PERSON t_ms=116380 score=0.879 cx=220 cy=138 box=129,37,312,239 frame=320,240 latency_ms=233
+I (117594) freddy_person: PERSON t_ms=116630 score=0.820 cx=220 cy=138 box=124,38,316,239 frame=320,240 latency_ms=233
+I (117844) freddy_person: PERSON t_ms=116880 score=0.810 cx=205 cy=136 box=121,38,290,235 frame=320,240 latency_ms=232
+I (118094) freddy_person: PERSON t_ms=117131 score=0.755 cx=211 cy=138 box=119,38,304,238 frame=320,240 latency_ms=233
+I (118344) freddy_person: PERSON t_ms=117380 score=0.702 cx=215 cy=137 box=124,36,306,239 frame=320,240 latency_ms=233
+I (118594) freddy_person: PERSON t_ms=117630 score=0.679 cx=214 cy=138 box=125,37,304,239 frame=320,240 latency_ms=233
+I (118844) freddy_person: PERSON t_ms=117880 score=0.824 cx=214 cy=138 box=128,38,300,239 frame=320,240 latency_ms=233
+I (119094) freddy_person: PERSON t_ms=118130 score=0.631 cx=192 cy=134 box=80,37,305,232 frame=320,240 latency_ms=232
+I (119344) freddy_person: PERSON t_ms=118381 score=0.637 cx=218 cy=138 box=119,38,318,239 frame=320,240 latency_ms=233
+Saved /Users/joshua/Code/3d-creations/freddy_fazbear_digital_eyes/hardware/camera-captures/person-detector-left-image-frame-461.jpg (6661 bytes)
+I (119734) freddy_person: PERSON t_ms=118769 score=0.810 cx=223 cy=139 box=128,39,319,239 frame=320,240 latency_ms=371
+I (119984) freddy_person: PERSON t_ms=119021 score=0.530 cx=219 cy=135 box=129,37,310,233 frame=320,240 latency_ms=233
+I (120234) freddy_person: PERSON t_ms=119271 score=0.857 cx=217 cy=138 box=122,38,313,239 frame=320,240 latency_ms=233
+I (120484) freddy_person: PERSON t_ms=119520 score=0.786 cx=199 cy=137 box=122,38,276,237 frame=320,240 latency_ms=233
+I (120734) freddy_person: PERSON t_ms=119770 score=0.707 cx=204 cy=132 box=124,39,285,225 frame=320,240 latency_ms=233
+Saved /Users/joshua/Code/3d-creations/freddy_fazbear_digital_eyes/hardware/camera-captures/person-detector-left-image.log; 48 person detections

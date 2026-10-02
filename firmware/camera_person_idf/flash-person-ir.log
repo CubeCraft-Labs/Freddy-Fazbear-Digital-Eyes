@@ -1,0 +1,114 @@
+Executing action: flash
+Running ninja in directory /Users/joshua/Code/3d-creations/freddy_fazbear_digital_eyes/firmware/camera_person_idf/build
+Executing "ninja flash"...
+[1/5] cd /Users/joshua/Code/3d-creations/freddy_fazbear_digital_eyes/firmware/camera_person_idf/build/esp-idf/esptool_py && /Users/joshua/.espressif/python_env/idf5.5_py3.13_env/bin/python /Users/joshua/esp/esp-idf/components/partition_table/check_sizes.py --offset 0x8000 partition --type app /Users/joshua/Code/3d-creations/freddy_fazbear_digital_eyes/firmware/camera_person_idf/build/partition_table/partition-table.bin /Users/joshua/Code/3d-creations/freddy_fazbear_digital_eyes/firmware/camera_person_idf/build/freddy_camera_person.bin
+freddy_camera_person.bin binary size 0x288e00 bytes. Smallest app partition is 0xa00000 bytes. 0x777200 bytes (75%) free.
+[2/5] Performing build step for 'bootloader'
+[1/1] cd /Users/joshua/Code/3d-creations/freddy_fazbear_digital_eyes/firmware/camera_person_idf/build/bootloader/esp-idf/esptool_py && /Users/joshua/.espressif/python_env/idf5.5_py3.13_env/bin/python /Users/joshua/esp/esp-idf/components/partition_table/check_sizes.py --offset 0x8000 bootloader 0x0 /Users/joshua/Code/3d-creations/freddy_fazbear_digital_eyes/firmware/camera_person_idf/build/bootloader/bootloader.bin
+Bootloader binary size 0x5240 bytes. 0x2dc0 bytes (36%) free.
+[3/5] No install step for 'bootloader'
+[4/5] Completed 'bootloader'
+[4/5] cd /Users/joshua/esp/esp-idf/components/esptool_py && /opt/homebrew/bin/cmake -D IDF_PATH=/Users/joshua/esp/esp-idf -D "SERIAL_TOOL=/Users/joshua/.espressif/python_env/idf5.5_py3.13_env/bin/python;;/Users/joshua/esp/esp-idf/components/esptool_py/esptool/esptool.py;--chip;esp32s3" -D "SERIAL_TOOL_ARGS=--before=default_reset;--after=hard_reset;write_flash;@flash_args" -D WORKING_DIRECTORY=/Users/joshua/Code/3d-creations/freddy_fazbear_digital_eyes/firmware/camera_person_idf/build -P /Users/joshua/esp/esp-idf/components/esptool_py/run_serial_tool.cmake
+esptool.py --chip esp32s3 -p /dev/cu.usbmodem1101 -b 460800 --before=default_reset --after=hard_reset write_flash --flash_mode dio --flash_freq 80m --flash_size 16MB 0x0 bootloader/bootloader.bin 0x10000 freddy_camera_person.bin 0x8000 partition_table/partition-table.bin
+esptool.py v4.12.dev1
+Serial port /dev/cu.usbmodem1101
+Connecting...
+Chip is ESP32-S3 (QFN56) (revision v0.2)
+Features: WiFi, BLE, Embedded PSRAM 8MB (AP_3v3)
+Crystal is 40MHz
+USB mode: USB-Serial/JTAG
+MAC: e8:f6:0a:87:0b:4c
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Configuring flash size...
+Flash will be erased from 0x00000000 to 0x00005fff...
+Flash will be erased from 0x00010000 to 0x00298fff...
+Flash will be erased from 0x00008000 to 0x00008fff...
+SHA digest in image updated
+Compressed 21056 bytes to 13390...
+Writing at 0x00000000... (100 %)
+Wrote 21056 bytes (13390 compressed) at 0x00000000 in 0.4 seconds (effective 404.8 kbit/s)...
+Hash of data verified.
+Compressed 2657792 bytes to 1116115...
+Writing at 0x00010000... (1 %)
+Writing at 0x0001e8b0... (2 %)
+Writing at 0x00026d2d... (4 %)
+Writing at 0x0002cbde... (5 %)
+Writing at 0x000323bd... (7 %)
+Writing at 0x0003817d... (8 %)
+Writing at 0x0003de91... (10 %)
+Writing at 0x00043ce2... (11 %)
+Writing at 0x000496ef... (13 %)
+Writing at 0x0004fad8... (14 %)
+Writing at 0x0005582a... (15 %)
+Writing at 0x0005aeab... (17 %)
+Writing at 0x0006062a... (18 %)
+Writing at 0x000666c3... (20 %)
+Writing at 0x0006bc3f... (21 %)
+Writing at 0x000723ba... (23 %)
+Writing at 0x000774ab... (24 %)
+Writing at 0x0007d509... (26 %)
+Writing at 0x00082d47... (27 %)
+Writing at 0x00095771... (28 %)
+Writing at 0x0009c3f7... (30 %)
+Writing at 0x000a39a3... (31 %)
+Writing at 0x000a9f90... (33 %)
+Writing at 0x000b150c... (34 %)
+Writing at 0x000b88cb... (36 %)
+Writing at 0x000bfc9f... (37 %)
+Writing at 0x000c86ac... (39 %)
+Writing at 0x000ce799... (40 %)
+Writing at 0x000d4bff... (42 %)
+Writing at 0x000dbd35... (43 %)
+Writing at 0x000e55ae... (44 %)
+Writing at 0x000edaec... (46 %)
+Writing at 0x000f3cc1... (47 %)
+Writing at 0x000facde... (49 %)
+Writing at 0x00102cc4... (50 %)
+Writing at 0x0010ccc5... (52 %)
+Writing at 0x00115672... (53 %)
+Writing at 0x0011c0eb... (55 %)
+Writing at 0x00123ad4... (56 %)
+Writing at 0x0012d46e... (57 %)
+Writing at 0x00135daf... (59 %)
+Writing at 0x0013df8a... (60 %)
+Writing at 0x00148995... (62 %)
+Writing at 0x001565f9... (63 %)
+Writing at 0x0015f9a4... (65 %)
+Writing at 0x00168bea... (66 %)
+Writing at 0x00172e2d... (68 %)
+Writing at 0x0017c7f4... (69 %)
+Writing at 0x00186d0a... (71 %)
+Writing at 0x00191e8e... (72 %)
+Writing at 0x0019e70d... (73 %)
+Writing at 0x001a8a1b... (75 %)
+Writing at 0x001b354d... (76 %)
+Writing at 0x001b9818... (78 %)
+Writing at 0x001c73a9... (79 %)
+Writing at 0x001d3588... (81 %)
+Writing at 0x001dc97d... (82 %)
+Writing at 0x001e7f86... (84 %)
+Writing at 0x001f2161... (85 %)
+Writing at 0x00211397... (86 %)
+Writing at 0x0021a4e4... (88 %)
+Writing at 0x00222832... (89 %)
+Writing at 0x0022bf16... (91 %)
+Writing at 0x0023281e... (92 %)
+Writing at 0x0023d6d4... (94 %)
+Writing at 0x00278406... (95 %)
+Writing at 0x0028a879... (97 %)
+Writing at 0x0029159d... (98 %)
+Writing at 0x00297f4b... (100 %)
+Wrote 2657792 bytes (1116115 compressed) at 0x00010000 in 19.5 seconds (effective 1092.8 kbit/s)...
+Hash of data verified.
+Compressed 3072 bytes to 105...
+Writing at 0x00008000... (100 %)
+Wrote 3072 bytes (105 compressed) at 0x00008000 in 0.1 seconds (effective 352.1 kbit/s)...
+Hash of data verified.
+
+Leaving...
+Hard resetting via RTS pin...
+Done

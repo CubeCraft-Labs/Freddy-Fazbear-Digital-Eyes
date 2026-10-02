@@ -1,0 +1,8 @@
+I (120984) freddy_person: PERSON t_ms=120020 score=0.800 cx=207 I (364804) freddy_person: NO_PERSON t_ms=363838 frame=320,240 latency_ms=230
+I (366054) freddy_person: PERSON t_ms=365088 score=0.370 cx=165 cy=173 box=136,134,194,212 frame=320,240 latency_ms=231
+I (366304) freddy_person: PERSON t_ms=365338 score=0.455 cx=174 cy=174 box=154,138,195,211 frame=320,240 latency_ms=231
+Saved /Users/joshua/Code/3d-creations/freddy_fazbear_digital_eyes/hardware/camera-captures/person-detector-empty-frame-1441.jpg (4499 bytes)
+I (370644) freddy_person: NO_PERSON t_ms=369678 frame=320,240 latency_ms=230
+Saved /Users/joshua/Code/3d-creations/freddy_fazbear_digital_eyes/hardware/camera-captures/person-detector-empty-frame-1461.jpg (4550 bytes)
+I (373734) freddy_person: PERSON t_ms=372773 score=0.375 cx=153 cy=175 box=135,137,171,213 frame=320,240 latency_ms=326
+Saved /Users/joshua/Code/3d-creations/freddy_fazbear_digital_eyes/hardware/camera-captures/person-detector-empty.log; 4 person detections

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+  <title id="title">Concealed camera candidate beneath the actual chair's photo-right armrest</title>
+  <desc id="desc">Front-view placement sketch of the single wicker chair, skeleton, and a small camera pod tucked beneath the front half of the right armrest as seen in Joshua's photo.</desc>
+  <rect width="900" height="560" fill="#f6f4ef"/>
+  <text x="42" y="47" font-family="Arial,sans-serif" font-size="26" font-weight="700" fill="#17222b">Actual chair: camera placement to test</text>
+  <text x="42" y="77" font-family="Arial,sans-serif" font-size="16" fill="#4d5960">Front view toward the seated skeleton · photo-right is diagram-right</text>
+  <path d="M170 478 H725" stroke="#bbb7ae" stroke-width="3"/>
+  <rect x="280" y="150" width="332" height="310" rx="22" fill="#50463e"/>
+  <rect x="312" y="157" width="268" height="243" rx="15" fill="#e8e6df"/>
+  <rect x="308" y="345" width="274" height="77" rx="11" fill="#f5f3ee"/>
+  <rect x="211" y="253" width="94" height="206" rx="11" fill="#3a312d"/>
+  <rect x="586" y="253" width="94" height="206" rx="11" fill="#3a312d"/>
+  <path d="M211 264 H305 M586 264 H680" stroke="#736055" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="447" cy="169" r="35" fill="#d8c99e"/>
+  <path d="M446 205 L446 241 M392 245 Q446 213 499 245 M392 245 L369 288 M499 245 L610 286 M405 261 Q447 301 487 261 M446 283 L446 353 M446 350 L392 386 M446 350 L501 386 M392 386 L375 467 M501 386 L518 467" fill="none" stroke="#d8c99e" stroke-width="13" stroke-linecap="round"/>
+  <path d="M607 283 L630 279" stroke="#d8c99e" stroke-width="12" stroke-linecap="round"/>
+  <rect x="616" y="291" width="46" height="23" rx="4" fill="#1c2528" stroke="#1c9b81" stroke-width="3"/>
+  <circle cx="640" cy="302" r="7" fill="#10171a" stroke="#79dec7" stroke-width="2"/>
+  <path d="M640 303 L741 369 M640 303 L741 233" stroke="#1c9b81" stroke-width="2" stroke-dasharray="7 6"/>
+  <circle cx="680" cy="348" r="3" fill="#1c9b81"/>
+  <path d="M663 302 H770" stroke="#17222b" stroke-width="2"/>
+  <text x="680" y="286" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#17222b">Pod beneath front half</text>
+  <text x="680" y="308" font-family="Arial,sans-serif" font-size="14" fill="#3a4b53">of photo-right armrest</text>
+  <text x="42" y="516" font-family="Arial,sans-serif" font-size="16" fill="#4d5960">Keep lens + IR below wicker lip; confirm both approach directions with live frames.</text>
+</svg>

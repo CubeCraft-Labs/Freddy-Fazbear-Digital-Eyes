@@ -1,0 +1,157 @@
+{"time": "2026-10-01T20:10:07.792286-04:00", "frame": 1, "detect_ms": 160.8, "target": null, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 0}}
+{"time": "2026-10-01T20:10:07.952419-04:00", "frame": 2, "detect_ms": 156.4, "target": null, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 1}}
+{"time": "2026-10-01T20:10:08.111679-04:00", "frame": 3, "detect_ms": 156.3, "target": null, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 2}}
+{"time": "2026-10-01T20:10:08.271285-04:00", "frame": 4, "detect_ms": 156.8, "target": null, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 3}}
+{"time": "2026-10-01T20:10:08.430363-04:00", "frame": 5, "detect_ms": 156.4, "target": null, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 4}}
+{"time": "2026-10-01T20:10:08.589691-04:00", "frame": 6, "detect_ms": 156.5, "target": null, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 5}}
+{"time": "2026-10-01T20:10:08.748481-04:00", "frame": 7, "detect_ms": 155.8, "target": null, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 6}}
+{"time": "2026-10-01T20:10:08.907515-04:00", "frame": 8, "detect_ms": 156.3, "target": null, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 7}}
+{"time": "2026-10-01T20:10:09.066705-04:00", "frame": 9, "detect_ms": 156.4, "target": null, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 8}}
+{"time": "2026-10-01T20:10:09.226771-04:00", "frame": 10, "detect_ms": 156.9, "target": null, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 9}}
+{"time": "2026-10-01T20:10:09.387280-04:00", "frame": 11, "detect_ms": 157.2, "target": null, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 10}}
+{"time": "2026-10-01T20:10:09.545796-04:00", "frame": 12, "detect_ms": 155.7, "target": null, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 11}}
+{"time": "2026-10-01T20:10:09.704561-04:00", "frame": 13, "detect_ms": 156.1, "target": null, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 12}}
+{"time": "2026-10-01T20:10:09.864256-04:00", "frame": 14, "detect_ms": 156.7, "target": null, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 13}}
+{"time": "2026-10-01T20:10:10.023478-04:00", "frame": 15, "detect_ms": 156.4, "target": null, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 14}}
+{"time": "2026-10-01T20:10:10.182799-04:00", "frame": 16, "detect_ms": 156.4, "target": null, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 15}}
+{"time": "2026-10-01T20:10:10.341514-04:00", "frame": 17, "detect_ms": 156.0, "target": null, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 16}}
+{"time": "2026-10-01T20:10:10.501279-04:00", "frame": 18, "detect_ms": 156.5, "target": {"x": 19, "y": 71, "width": 85, "height": 169, "score": 0.5118925448041409}, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 17}}
+{"time": "2026-10-01T20:10:10.661254-04:00", "frame": 19, "detect_ms": 156.8, "target": {"x": 29, "y": 77, "width": 78, "height": 156, "score": 0.7669728476321325}, "gaze": {"x": 210, "y": 644, "valid": true, "sequence": 18}}
+{"time": "2026-10-01T20:10:10.820317-04:00", "frame": 20, "detect_ms": 156.3, "target": null, "gaze": {"x": 210, "y": 644, "valid": true, "sequence": 19}}
+{"time": "2026-10-01T20:10:10.980518-04:00", "frame": 21, "detect_ms": 157.0, "target": {"x": 56, "y": 76, "width": 82, "height": 164, "score": 0.20176295610144734}, "gaze": {"x": 300, "y": 656, "valid": true, "sequence": 20}}
+{"time": "2026-10-01T20:10:11.139645-04:00", "frame": 22, "detect_ms": 156.4, "target": null, "gaze": {"x": 300, "y": 656, "valid": true, "sequence": 21}}
+{"time": "2026-10-01T20:10:11.298981-04:00", "frame": 23, "detect_ms": 156.6, "target": null, "gaze": {"x": 300, "y": 656, "valid": true, "sequence": 22}}
+{"time": "2026-10-01T20:10:11.458946-04:00", "frame": 24, "detect_ms": 156.9, "target": null, "gaze": {"x": 300, "y": 656, "valid": true, "sequence": 23}}
+{"time": "2026-10-01T20:10:11.618174-04:00", "frame": 25, "detect_ms": 156.4, "target": null, "gaze": {"x": 300, "y": 656, "valid": true, "sequence": 24}}
+{"time": "2026-10-01T20:10:11.777165-04:00", "frame": 26, "detect_ms": 156.2, "target": null, "gaze": {"x": 300, "y": 656, "valid": true, "sequence": 25}}
+{"time": "2026-10-01T20:10:11.937112-04:00", "frame": 27, "detect_ms": 157.2, "target": null, "gaze": {"x": 300, "y": 656, "valid": true, "sequence": 26}}
+{"time": "2026-10-01T20:10:12.096323-04:00", "frame": 28, "detect_ms": 156.6, "target": null, "gaze": {"x": 300, "y": 656, "valid": true, "sequence": 27}}
+{"time": "2026-10-01T20:10:12.255717-04:00", "frame": 29, "detect_ms": 156.6, "target": null, "gaze": {"x": 300, "y": 656, "valid": true, "sequence": 28}}
+{"time": "2026-10-01T20:10:12.415172-04:00", "frame": 30, "detect_ms": 156.4, "target": null, "gaze": {"x": 300, "y": 656, "valid": true, "sequence": 29}}
+{"time": "2026-10-01T20:10:12.574233-04:00", "frame": 31, "detect_ms": 156.1, "target": null, "gaze": {"x": 300, "y": 656, "valid": true, "sequence": 30}}
+{"time": "2026-10-01T20:10:12.733777-04:00", "frame": 32, "detect_ms": 156.9, "target": null, "gaze": {"x": 300, "y": 656, "valid": true, "sequence": 31}}
+{"time": "2026-10-01T20:10:12.894184-04:00", "frame": 33, "detect_ms": 157.6, "target": null, "gaze": {"x": 300, "y": 656, "valid": true, "sequence": 32}}
+{"time": "2026-10-01T20:10:13.053713-04:00", "frame": 34, "detect_ms": 156.6, "target": {"x": 85, "y": 85, "width": 76, "height": 152, "score": 0.4825885985046625}, "gaze": {"x": 382, "y": 669, "valid": true, "sequence": 33}}
+{"time": "2026-10-01T20:10:13.212758-04:00", "frame": 35, "detect_ms": 156.2, "target": null, "gaze": {"x": 382, "y": 669, "valid": true, "sequence": 34}}
+{"time": "2026-10-01T20:10:13.371814-04:00", "frame": 36, "detect_ms": 156.2, "target": null, "gaze": {"x": 382, "y": 669, "valid": true, "sequence": 35}}
+{"time": "2026-10-01T20:10:13.531051-04:00", "frame": 37, "detect_ms": 156.5, "target": null, "gaze": {"x": 382, "y": 669, "valid": true, "sequence": 36}}
+{"time": "2026-10-01T20:10:13.690939-04:00", "frame": 38, "detect_ms": 156.6, "target": {"x": 38, "y": 70, "width": 86, "height": 170, "score": 0.4403667140286416}, "gaze": {"x": 250, "y": 644, "valid": true, "sequence": 37}}
+{"time": "2026-10-01T20:10:13.850237-04:00", "frame": 39, "detect_ms": 156.4, "target": {"x": 28, "y": 72, "width": 83, "height": 166, "score": 1.2733431142987683}, "gaze": {"x": 216, "y": 644, "valid": true, "sequence": 38}}
+{"time": "2026-10-01T20:10:14.009192-04:00", "frame": 40, "detect_ms": 156.0, "target": {"x": 20, "y": 74, "width": 80, "height": 160, "score": 0.13930590322706848}, "gaze": {"x": 184, "y": 640, "valid": true, "sequence": 39}}
+{"time": "2026-10-01T20:10:14.168612-04:00", "frame": 41, "detect_ms": 156.6, "target": null, "gaze": {"x": 184, "y": 640, "valid": true, "sequence": 40}}
+{"time": "2026-10-01T20:10:14.328067-04:00", "frame": 42, "detect_ms": 156.5, "target": null, "gaze": {"x": 184, "y": 640, "valid": true, "sequence": 41}}
+{"time": "2026-10-01T20:10:14.487545-04:00", "frame": 43, "detect_ms": 156.7, "target": null, "gaze": {"x": 184, "y": 640, "valid": true, "sequence": 42}}
+{"time": "2026-10-01T20:10:14.646794-04:00", "frame": 44, "detect_ms": 156.3, "target": null, "gaze": {"x": 184, "y": 640, "valid": true, "sequence": 43}}
+{"time": "2026-10-01T20:10:14.805921-04:00", "frame": 45, "detect_ms": 156.4, "target": null, "gaze": {"x": 184, "y": 640, "valid": true, "sequence": 44}}
+{"time": "2026-10-01T20:10:14.965771-04:00", "frame": 46, "detect_ms": 156.6, "target": {"x": 0, "y": 85, "width": 70, "height": 155, "score": 0.41224189777858555}, "gaze": {"x": 106, "y": 677, "valid": true, "sequence": 45}}
+{"time": "2026-10-01T20:10:15.125518-04:00", "frame": 47, "detect_ms": 156.9, "target": null, "gaze": {"x": 106, "y": 677, "valid": true, "sequence": 46}}
+{"time": "2026-10-01T20:10:15.284509-04:00", "frame": 48, "detect_ms": 156.2, "target": null, "gaze": {"x": 106, "y": 677, "valid": true, "sequence": 47}}
+{"time": "2026-10-01T20:10:15.443257-04:00", "frame": 49, "detect_ms": 156.0, "target": null, "gaze": {"x": 106, "y": 677, "valid": true, "sequence": 48}}
+{"time": "2026-10-01T20:10:15.601973-04:00", "frame": 50, "detect_ms": 155.9, "target": {"x": 28, "y": 80, "width": 76, "height": 152, "score": 0.37580482847988605}, "gaze": {"x": 203, "y": 648, "valid": true, "sequence": 49}}
+{"time": "2026-10-01T20:10:15.761940-04:00", "frame": 51, "detect_ms": 156.8, "target": {"x": 50, "y": 74, "width": 80, "height": 160, "score": 0.199772342806682}, "gaze": {"x": 278, "y": 640, "valid": true, "sequence": 50}}
+{"time": "2026-10-01T20:10:15.921655-04:00", "frame": 52, "detect_ms": 156.8, "target": {"x": 60, "y": 78, "width": 74, "height": 148, "score": 0.16141578240785748}, "gaze": {"x": 300, "y": 631, "valid": true, "sequence": 51}}
+{"time": "2026-10-01T20:10:16.080652-04:00", "frame": 53, "detect_ms": 156.1, "target": {"x": 74, "y": 82, "width": 69, "height": 138, "score": 0.07168729533441365}, "gaze": {"x": 338, "y": 627, "valid": true, "sequence": 52}}
+{"time": "2026-10-01T20:10:16.239518-04:00", "frame": 54, "detect_ms": 156.1, "target": null, "gaze": {"x": 338, "y": 627, "valid": true, "sequence": 53}}
+{"time": "2026-10-01T20:10:16.399060-04:00", "frame": 55, "detect_ms": 156.9, "target": null, "gaze": {"x": 338, "y": 627, "valid": true, "sequence": 54}}
+{"time": "2026-10-01T20:10:16.558732-04:00", "frame": 56, "detect_ms": 156.8, "target": null, "gaze": {"x": 338, "y": 627, "valid": true, "sequence": 55}}
+{"time": "2026-10-01T20:10:16.718005-04:00", "frame": 57, "detect_ms": 156.5, "target": null, "gaze": {"x": 338, "y": 627, "valid": true, "sequence": 56}}
+{"time": "2026-10-01T20:10:16.876777-04:00", "frame": 58, "detect_ms": 156.0, "target": null, "gaze": {"x": 338, "y": 627, "valid": true, "sequence": 57}}
+{"time": "2026-10-01T20:10:17.035845-04:00", "frame": 59, "detect_ms": 156.4, "target": null, "gaze": {"x": 338, "y": 627, "valid": true, "sequence": 58}}
+{"time": "2026-10-01T20:10:17.195032-04:00", "frame": 60, "detect_ms": 156.5, "target": null, "gaze": {"x": 338, "y": 627, "valid": true, "sequence": 59}}
+{"time": "2026-10-01T20:10:17.355053-04:00", "frame": 61, "detect_ms": 156.9, "target": null, "gaze": {"x": 338, "y": 627, "valid": true, "sequence": 60}}
+{"time": "2026-10-01T20:10:17.513794-04:00", "frame": 62, "detect_ms": 155.9, "target": null, "gaze": {"x": 338, "y": 627, "valid": true, "sequence": 61}}
+{"time": "2026-10-01T20:10:17.672914-04:00", "frame": 63, "detect_ms": 156.4, "target": null, "gaze": {"x": 338, "y": 627, "valid": true, "sequence": 62}}
+{"time": "2026-10-01T20:10:17.832242-04:00", "frame": 64, "detect_ms": 156.7, "target": null, "gaze": {"x": 338, "y": 627, "valid": true, "sequence": 63}}
+{"time": "2026-10-01T20:10:17.992262-04:00", "frame": 65, "detect_ms": 157.3, "target": null, "gaze": {"x": 338, "y": 627, "valid": true, "sequence": 64}}
+{"time": "2026-10-01T20:10:18.151768-04:00", "frame": 66, "detect_ms": 156.7, "target": null, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 65}}
+{"time": "2026-10-01T20:10:18.310645-04:00", "frame": 67, "detect_ms": 155.9, "target": null, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 66}}
+{"time": "2026-10-01T20:10:18.469751-04:00", "frame": 68, "detect_ms": 156.3, "target": null, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 67}}
+{"time": "2026-10-01T20:10:18.629214-04:00", "frame": 69, "detect_ms": 156.6, "target": {"x": 56, "y": 76, "width": 82, "height": 164, "score": 0.6699664338957518}, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 68}}
+{"time": "2026-10-01T20:10:18.789030-04:00", "frame": 70, "detect_ms": 156.7, "target": null, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 69}}
+{"time": "2026-10-01T20:10:18.948384-04:00", "frame": 71, "detect_ms": 156.3, "target": {"x": 32, "y": 73, "width": 84, "height": 167, "score": 0.43034207553137094}, "gaze": {"x": 228, "y": 652, "valid": true, "sequence": 70}}
+{"time": "2026-10-01T20:10:19.107178-04:00", "frame": 72, "detect_ms": 155.9, "target": {"x": 24, "y": 71, "width": 85, "height": 169, "score": 0.6316257496364415}, "gaze": {"x": 206, "y": 648, "valid": true, "sequence": 71}}
+{"time": "2026-10-01T20:10:19.266604-04:00", "frame": 73, "detect_ms": 156.7, "target": null, "gaze": {"x": 206, "y": 648, "valid": true, "sequence": 72}}
+{"time": "2026-10-01T20:10:19.426198-04:00", "frame": 74, "detect_ms": 157.0, "target": null, "gaze": {"x": 206, "y": 648, "valid": true, "sequence": 73}}
+{"time": "2026-10-01T20:10:19.585586-04:00", "frame": 75, "detect_ms": 156.5, "target": {"x": 5, "y": 65, "width": 88, "height": 175, "score": 0.2485874259728007}, "gaze": {"x": 150, "y": 635, "valid": true, "sequence": 74}}
+{"time": "2026-10-01T20:10:19.744711-04:00", "frame": 76, "detect_ms": 156.2, "target": null, "gaze": {"x": 150, "y": 635, "valid": true, "sequence": 75}}
+{"time": "2026-10-01T20:10:19.903986-04:00", "frame": 77, "detect_ms": 156.5, "target": null, "gaze": {"x": 150, "y": 635, "valid": true, "sequence": 76}}
+{"time": "2026-10-01T20:10:20.063849-04:00", "frame": 78, "detect_ms": 157.2, "target": null, "gaze": {"x": 150, "y": 635, "valid": true, "sequence": 77}}
+{"time": "2026-10-01T20:10:20.223672-04:00", "frame": 79, "detect_ms": 156.9, "target": null, "gaze": {"x": 150, "y": 635, "valid": true, "sequence": 78}}
+{"time": "2026-10-01T20:10:20.383218-04:00", "frame": 80, "detect_ms": 156.5, "target": {"x": 24, "y": 77, "width": 82, "height": 163, "score": 0.9722632486373186}, "gaze": {"x": 200, "y": 661, "valid": true, "sequence": 79}}
+{"time": "2026-10-01T20:10:20.542442-04:00", "frame": 81, "detect_ms": 156.1, "target": {"x": 36, "y": 76, "width": 82, "height": 164, "score": 0.5289241103455424}, "gaze": {"x": 238, "y": 656, "valid": true, "sequence": 80}}
+{"time": "2026-10-01T20:10:20.701880-04:00", "frame": 82, "detect_ms": 156.6, "target": {"x": 54, "y": 78, "width": 78, "height": 156, "score": 0.6763273450196721}, "gaze": {"x": 288, "y": 648, "valid": true, "sequence": 81}}
+{"time": "2026-10-01T20:10:20.861573-04:00", "frame": 83, "detect_ms": 156.9, "target": {"x": 56, "y": 76, "width": 82, "height": 164, "score": 0.7153314667521045}, "gaze": {"x": 300, "y": 656, "valid": true, "sequence": 82}}
+{"time": "2026-10-01T20:10:21.021868-04:00", "frame": 84, "detect_ms": 156.8, "target": null, "gaze": {"x": 300, "y": 656, "valid": true, "sequence": 83}}
+{"time": "2026-10-01T20:10:21.180922-04:00", "frame": 85, "detect_ms": 156.3, "target": null, "gaze": {"x": 300, "y": 656, "valid": true, "sequence": 84}}
+{"time": "2026-10-01T20:10:21.339810-04:00", "frame": 86, "detect_ms": 156.2, "target": null, "gaze": {"x": 300, "y": 656, "valid": true, "sequence": 85}}
+{"time": "2026-10-01T20:10:21.498914-04:00", "frame": 87, "detect_ms": 156.4, "target": null, "gaze": {"x": 300, "y": 656, "valid": true, "sequence": 86}}
+{"time": "2026-10-01T20:10:21.658374-04:00", "frame": 88, "detect_ms": 156.8, "target": null, "gaze": {"x": 300, "y": 656, "valid": true, "sequence": 87}}
+{"time": "2026-10-01T20:10:21.817776-04:00", "frame": 89, "detect_ms": 156.6, "target": null, "gaze": {"x": 300, "y": 656, "valid": true, "sequence": 88}}
+{"time": "2026-10-01T20:10:21.976764-04:00", "frame": 90, "detect_ms": 156.1, "target": null, "gaze": {"x": 300, "y": 656, "valid": true, "sequence": 89}}
+{"time": "2026-10-01T20:10:22.136098-04:00", "frame": 91, "detect_ms": 156.4, "target": null, "gaze": {"x": 300, "y": 656, "valid": true, "sequence": 90}}
+{"time": "2026-10-01T20:10:22.295226-04:00", "frame": 92, "detect_ms": 156.4, "target": null, "gaze": {"x": 300, "y": 656, "valid": true, "sequence": 91}}
+{"time": "2026-10-01T20:10:22.456111-04:00", "frame": 93, "detect_ms": 157.3, "target": null, "gaze": {"x": 300, "y": 656, "valid": true, "sequence": 92}}
+{"time": "2026-10-01T20:10:22.615327-04:00", "frame": 94, "detect_ms": 156.4, "target": null, "gaze": {"x": 300, "y": 656, "valid": true, "sequence": 93}}
+{"time": "2026-10-01T20:10:22.774092-04:00", "frame": 95, "detect_ms": 156.0, "target": null, "gaze": {"x": 300, "y": 656, "valid": true, "sequence": 94}}
+{"time": "2026-10-01T20:10:22.933237-04:00", "frame": 96, "detect_ms": 156.5, "target": null, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 95}}
+{"time": "2026-10-01T20:10:23.092941-04:00", "frame": 97, "detect_ms": 157.0, "target": null, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 96}}
+{"time": "2026-10-01T20:10:23.252935-04:00", "frame": 98, "detect_ms": 156.8, "target": null, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 97}}
+{"time": "2026-10-01T20:10:23.412158-04:00", "frame": 99, "detect_ms": 156.3, "target": null, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 98}}
+{"time": "2026-10-01T20:10:23.571356-04:00", "frame": 100, "detect_ms": 156.3, "target": {"x": 80, "y": 80, "width": 81, "height": 160, "score": 0.42434873792808503}, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 99}}
+{"time": "2026-10-01T20:10:23.731371-04:00", "frame": 101, "detect_ms": 157.1, "target": null, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 100}}
+{"time": "2026-10-01T20:10:23.891659-04:00", "frame": 102, "detect_ms": 157.3, "target": null, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 101}}
+{"time": "2026-10-01T20:10:24.051610-04:00", "frame": 103, "detect_ms": 156.9, "target": {"x": 62, "y": 78, "width": 84, "height": 162, "score": 0.573510674526915}, "gaze": {"x": 322, "y": 661, "valid": true, "sequence": 102}}
+{"time": "2026-10-01T20:10:24.211227-04:00", "frame": 104, "detect_ms": 156.7, "target": {"x": 54, "y": 80, "width": 81, "height": 160, "score": 0.7423454946838319}, "gaze": {"x": 294, "y": 665, "valid": true, "sequence": 103}}
+{"time": "2026-10-01T20:10:24.370411-04:00", "frame": 105, "detect_ms": 156.3, "target": {"x": 38, "y": 75, "width": 82, "height": 164, "score": 1.1452426933683455}, "gaze": {"x": 244, "y": 652, "valid": true, "sequence": 104}}
+{"time": "2026-10-01T20:10:24.529884-04:00", "frame": 106, "detect_ms": 156.7, "target": {"x": 27, "y": 70, "width": 86, "height": 170, "score": 0.36968476697802544}, "gaze": {"x": 216, "y": 644, "valid": true, "sequence": 105}}
+{"time": "2026-10-01T20:10:24.689649-04:00", "frame": 107, "detect_ms": 156.8, "target": {"x": 27, "y": 70, "width": 86, "height": 170, "score": 0.5839128571096808}, "gaze": {"x": 216, "y": 644, "valid": true, "sequence": 106}}
+{"time": "2026-10-01T20:10:24.849065-04:00", "frame": 108, "detect_ms": 156.7, "target": null, "gaze": {"x": 216, "y": 644, "valid": true, "sequence": 107}}
+{"time": "2026-10-01T20:10:25.007756-04:00", "frame": 109, "detect_ms": 155.7, "target": {"x": 31, "y": 75, "width": 82, "height": 164, "score": 0.1410879447357729}, "gaze": {"x": 222, "y": 652, "valid": true, "sequence": 108}}
+{"time": "2026-10-01T20:10:25.167020-04:00", "frame": 110, "detect_ms": 156.4, "target": {"x": 38, "y": 70, "width": 86, "height": 170, "score": 0.5170947599690408}, "gaze": {"x": 250, "y": 644, "valid": true, "sequence": 109}}
+{"time": "2026-10-01T20:10:25.326540-04:00", "frame": 111, "detect_ms": 156.5, "target": {"x": 47, "y": 73, "width": 84, "height": 167, "score": 0.7141025791643187}, "gaze": {"x": 275, "y": 652, "valid": true, "sequence": 110}}
+{"time": "2026-10-01T20:10:25.487278-04:00", "frame": 112, "detect_ms": 156.8, "target": {"x": 56, "y": 76, "width": 82, "height": 164, "score": 1.1083704809425399}, "gaze": {"x": 300, "y": 656, "valid": true, "sequence": 111}}
+{"time": "2026-10-01T20:10:25.647261-04:00", "frame": 113, "detect_ms": 157.0, "target": {"x": 60, "y": 74, "width": 81, "height": 162, "score": 0.46646928368136287}, "gaze": {"x": 313, "y": 644, "valid": true, "sequence": 112}}
+{"time": "2026-10-01T20:10:25.806110-04:00", "frame": 114, "detect_ms": 156.0, "target": null, "gaze": {"x": 313, "y": 644, "valid": true, "sequence": 113}}
+{"time": "2026-10-01T20:10:25.964978-04:00", "frame": 115, "detect_ms": 156.1, "target": null, "gaze": {"x": 313, "y": 644, "valid": true, "sequence": 114}}
+{"time": "2026-10-01T20:10:26.124168-04:00", "frame": 116, "detect_ms": 156.6, "target": null, "gaze": {"x": 313, "y": 644, "valid": true, "sequence": 115}}
+{"time": "2026-10-01T20:10:26.283493-04:00", "frame": 117, "detect_ms": 156.5, "target": null, "gaze": {"x": 313, "y": 644, "valid": true, "sequence": 116}}
+{"time": "2026-10-01T20:10:26.442262-04:00", "frame": 118, "detect_ms": 155.9, "target": null, "gaze": {"x": 313, "y": 644, "valid": true, "sequence": 117}}
+{"time": "2026-10-01T20:10:26.601266-04:00", "frame": 119, "detect_ms": 156.3, "target": null, "gaze": {"x": 313, "y": 644, "valid": true, "sequence": 118}}
+{"time": "2026-10-01T20:10:26.760713-04:00", "frame": 120, "detect_ms": 156.8, "target": null, "gaze": {"x": 313, "y": 644, "valid": true, "sequence": 119}}
+{"time": "2026-10-01T20:10:26.920771-04:00", "frame": 121, "detect_ms": 156.9, "target": null, "gaze": {"x": 313, "y": 644, "valid": true, "sequence": 120}}
+{"time": "2026-10-01T20:10:27.079916-04:00", "frame": 122, "detect_ms": 156.4, "target": null, "gaze": {"x": 313, "y": 644, "valid": true, "sequence": 121}}
+{"time": "2026-10-01T20:10:27.238691-04:00", "frame": 123, "detect_ms": 156.0, "target": null, "gaze": {"x": 313, "y": 644, "valid": true, "sequence": 122}}
+{"time": "2026-10-01T20:10:27.397545-04:00", "frame": 124, "detect_ms": 156.1, "target": null, "gaze": {"x": 313, "y": 644, "valid": true, "sequence": 123}}
+{"time": "2026-10-01T20:10:27.556885-04:00", "frame": 125, "detect_ms": 156.7, "target": null, "gaze": {"x": 313, "y": 644, "valid": true, "sequence": 124}}
+{"time": "2026-10-01T20:10:27.716194-04:00", "frame": 126, "detect_ms": 156.5, "target": null, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 125}}
+{"time": "2026-10-01T20:10:27.875092-04:00", "frame": 127, "detect_ms": 156.0, "target": null, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 126}}
+{"time": "2026-10-01T20:10:28.034317-04:00", "frame": 128, "detect_ms": 156.4, "target": null, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 127}}
+{"time": "2026-10-01T20:10:28.193329-04:00", "frame": 129, "detect_ms": 156.4, "target": null, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 128}}
+{"time": "2026-10-01T20:10:28.353246-04:00", "frame": 130, "detect_ms": 156.8, "target": null, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 129}}
+{"time": "2026-10-01T20:10:28.512877-04:00", "frame": 131, "detect_ms": 156.7, "target": null, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 130}}
+{"time": "2026-10-01T20:10:28.671850-04:00", "frame": 132, "detect_ms": 156.2, "target": null, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 131}}
+{"time": "2026-10-01T20:10:28.831284-04:00", "frame": 133, "detect_ms": 156.7, "target": null, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 132}}
+{"time": "2026-10-01T20:10:28.990658-04:00", "frame": 134, "detect_ms": 156.5, "target": {"x": 37, "y": 78, "width": 82, "height": 162, "score": 0.3567493313457817}, "gaze": {"x": 500, "y": 500, "valid": false, "sequence": 133}}
+{"time": "2026-10-01T20:10:29.150614-04:00", "frame": 135, "detect_ms": 156.7, "target": {"x": 32, "y": 83, "width": 76, "height": 151, "score": 0.5794487876701169}, "gaze": {"x": 216, "y": 661, "valid": true, "sequence": 134}}
+{"time": "2026-10-01T20:10:29.309632-04:00", "frame": 136, "detect_ms": 156.1, "target": {"x": 17, "y": 82, "width": 82, "height": 158, "score": 0.9869850248796865}, "gaze": {"x": 178, "y": 669, "valid": true, "sequence": 135}}
+{"time": "2026-10-01T20:10:29.468492-04:00", "frame": 137, "detect_ms": 156.0, "target": {"x": 10, "y": 78, "width": 82, "height": 162, "score": 0.8970985103223938}, "gaze": {"x": 156, "y": 661, "valid": true, "sequence": 136}}
+{"time": "2026-10-01T20:10:29.627406-04:00", "frame": 138, "detect_ms": 156.2, "target": null, "gaze": {"x": 156, "y": 661, "valid": true, "sequence": 137}}
+{"time": "2026-10-01T20:10:29.786862-04:00", "frame": 139, "detect_ms": 156.5, "target": null, "gaze": {"x": 156, "y": 661, "valid": true, "sequence": 138}}
+{"time": "2026-10-01T20:10:29.946526-04:00", "frame": 140, "detect_ms": 156.8, "target": null, "gaze": {"x": 156, "y": 661, "valid": true, "sequence": 139}}
+{"time": "2026-10-01T20:10:30.105721-04:00", "frame": 141, "detect_ms": 156.0, "target": null, "gaze": {"x": 156, "y": 661, "valid": true, "sequence": 140}}
+{"time": "2026-10-01T20:10:30.264668-04:00", "frame": 142, "detect_ms": 156.3, "target": null, "gaze": {"x": 156, "y": 661, "valid": true, "sequence": 141}}
+{"time": "2026-10-01T20:10:30.424007-04:00", "frame": 143, "detect_ms": 156.6, "target": null, "gaze": {"x": 156, "y": 661, "valid": true, "sequence": 142}}
+{"time": "2026-10-01T20:10:30.584235-04:00", "frame": 144, "detect_ms": 156.6, "target": null, "gaze": {"x": 156, "y": 661, "valid": true, "sequence": 143}}
+{"time": "2026-10-01T20:10:30.743633-04:00", "frame": 145, "detect_ms": 156.4, "target": null, "gaze": {"x": 156, "y": 661, "valid": true, "sequence": 144}}
+{"time": "2026-10-01T20:10:30.902224-04:00", "frame": 146, "detect_ms": 155.8, "target": null, "gaze": {"x": 156, "y": 661, "valid": true, "sequence": 145}}
+{"time": "2026-10-01T20:10:31.061137-04:00", "frame": 147, "detect_ms": 156.2, "target": null, "gaze": {"x": 156, "y": 661, "valid": true, "sequence": 146}}
+{"time": "2026-10-01T20:10:31.220444-04:00", "frame": 148, "detect_ms": 156.7, "target": null, "gaze": {"x": 156, "y": 661, "valid": true, "sequence": 147}}
+{"time": "2026-10-01T20:10:31.379823-04:00", "frame": 149, "detect_ms": 156.4, "target": {"x": 0, "y": 85, "width": 66, "height": 152, "score": 0.9152967035770416}, "gaze": {"x": 100, "y": 669, "valid": true, "sequence": 148}}
+{"time": "2026-10-01T20:10:31.539240-04:00", "frame": 150, "detect_ms": 156.3, "target": {"x": 0, "y": 86, "width": 68, "height": 148, "score": 0.9081206690752879}, "gaze": {"x": 103, "y": 665, "valid": true, "sequence": 149}}
+{"time": "2026-10-01T20:10:31.699140-04:00", "frame": 151, "detect_ms": 157.0, "target": null, "gaze": {"x": 103, "y": 665, "valid": true, "sequence": 150}}
+{"time": "2026-10-01T20:10:31.858607-04:00", "frame": 152, "detect_ms": 156.7, "target": {"x": 7, "y": 84, "width": 81, "height": 156, "score": 1.02721988549456}, "gaze": {"x": 147, "y": 673, "valid": true, "sequence": 151}}
+{"time": "2026-10-01T20:10:32.018863-04:00", "frame": 153, "detect_ms": 157.2, "target": {"x": 15, "y": 85, "width": 80, "height": 155, "score": 0.8233131768647581}, "gaze": {"x": 169, "y": 677, "valid": true, "sequence": 152}}
+{"time": "2026-10-01T20:10:32.178563-04:00", "frame": 154, "detect_ms": 156.8, "target": {"x": 28, "y": 85, "width": 76, "height": 152, "score": 1.2280552258598618}, "gaze": {"x": 203, "y": 669, "valid": true, "sequence": 153}}
+{"time": "2026-10-01T20:10:32.337704-04:00", "frame": 155, "detect_ms": 156.2, "target": {"x": 37, "y": 83, "width": 79, "height": 157, "score": 1.2598841892322525}, "gaze": {"x": 238, "y": 673, "valid": true, "sequence": 154}}
+{"time": "2026-10-01T20:10:32.497119-04:00", "frame": 156, "detect_ms": 156.5, "target": {"x": 48, "y": 86, "width": 76, "height": 151, "score": 0.3985349233262241}, "gaze": {"x": 266, "y": 673, "valid": true, "sequence": 155}}
+{"time": "2026-10-01T20:10:32.656703-04:00", "frame": 157, "detect_ms": 156.8, "target": {"x": 59, "y": 88, "width": 72, "height": 144, "score": 1.0283592687919736}, "gaze": {"x": 294, "y": 665, "valid": true, "sequence": 156}}

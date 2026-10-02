@@ -1,0 +1,33 @@
+I (41804) freddy_person: PERSON t_ms=40840 score=0.586 cx=166 cyI (98354) freddy_person: PERSON t_ms=97390 score=0.515 cx=215 cy=119 box=111,0,319,239 frame=320,240 latency_ms=233
+I (98854) freddy_person: PERSON t_ms=97890 score=0.484 cx=217 cy=120 box=122,4,313,237 frame=320,240 latency_ms=233
+I (99104) freddy_person: PERSON t_ms=98140 score=0.593 cx=220 cy=123 box=121,8,319,239 frame=320,240 latency_ms=232
+I (99354) freddy_person: PERSON t_ms=98390 score=0.599 cx=237 cy=119 box=156,0,319,239 frame=320,240 latency_ms=232
+I (99604) freddy_person: PERSON t_ms=98640 score=0.515 cx=234 cy=120 box=149,2,319,239 frame=320,240 latency_ms=232
+I (99854) freddy_person: PERSON t_ms=98889 score=0.468 cx=250 cy=131 box=181,23,319,239 frame=320,240 latency_ms=232
+I (100104) freddy_person: PERSON t_ms=99139 score=0.433 cx=230 cy=139 box=142,39,319,239 frame=320,240 latency_ms=232
+I (100354) freddy_person: PERSON t_ms=99390 score=0.484 cx=229 cy=139 box=139,40,319,239 frame=320,240 latency_ms=232
+I (100604) freddy_person: PERSON t_ms=99640 score=0.530 cx=260 cy=141 box=201,44,319,239 frame=320,240 latency_ms=232
+I (100854) freddy_person: PERSON t_ms=99890 score=0.476 cx=257 cy=142 box=196,46,319,238 frame=320,240 latency_ms=233
+I (101104) freddy_person: PERSON t_ms=100139 score=0.545 cx=218 cy=142 box=120,46,316,239 frame=320,240 latency_ms=232
+I (101354) freddy_person: PERSON t_ms=100390 score=0.484 cx=234 cy=142 box=150,45,319,239 frame=320,240 latency_ms=232
+I (101604) freddy_person: PERSON t_ms=100640 score=0.468 cx=258 cy=143 box=197,48,319,239 frame=320,240 latency_ms=232
+I (101854) freddy_person: PERSON t_ms=100890 score=0.637 cx=230 cy=143 box=141,48,319,239 frame=320,240 latency_ms=232
+I (102104) freddy_person: PERSON t_ms=101140 score=0.566 cx=241 cy=143 box=163,48,319,239 frame=320,240 latency_ms=232
+I (102354) freddy_person: PERSON t_ms=101390 score=0.723 cx=236 cy=144 box=154,50,319,239 frame=320,240 latency_ms=232
+I (102604) freddy_person: PERSON t_ms=101640 score=0.776 cx=228 cy=146 box=138,53,319,239 frame=320,240 latency_ms=232
+I (102854) freddy_person: PERSON t_ms=101890 score=0.690 cx=243 cy=145 box=167,52,319,239 frame=320,240 latency_ms=232
+I (103104) freddy_person: PERSON t_ms=102140 score=0.637 cx=238 cy=145 box=158,52,319,239 frame=320,240 latency_ms=232
+I (103354) freddy_person: PERSON t_ms=102390 score=0.612 cx=232 cy=143 box=147,48,317,239 frame=320,240 latency_ms=232
+I (103604) freddy_person: PERSON t_ms=102640 score=0.702 cx=224 cy=144 box=129,49,319,239 frame=320,240 latency_ms=232
+I (103854) freddy_person: PERSON t_ms=102890 score=0.791 cx=230 cy=144 box=141,49,319,239 frame=320,240 latency_ms=232
+I (104104) freddy_person: PERSON t_ms=103140 score=0.612 cx=225 cy=145 box=132,51,319,239 frame=320,240 latency_ms=232
+I (104354) freddy_person: PERSON t_ms=103390 score=0.786 cx=222 cy=144 box=126,50,319,239 frame=320,240 latency_ms=232
+I (104604) freddy_person: PERSON t_ms=103640 score=0.834 cx=227 cy=144 box=136,50,319,239 frame=320,240 latency_ms=232
+I (104854) freddy_person: PERSON t_ms=103890 score=0.734 cx=222 cy=143 box=126,48,319,239 frame=320,240 latency_ms=232
+I (105104) freddy_person: PERSON t_ms=104140 score=0.723 cx=231 cy=143 box=145,48,318,239 frame=320,240 latency_ms=233
+I (105354) freddy_person: PERSON t_ms=104390 score=0.745 cx=219 cy=143 box=120,48,319,239 frame=320,240 latency_ms=232
+I (105604) freddy_person: PERSON t_ms=104639 score=0.586 cx=219 cy=145 box=121,51,317,239 frame=320,240 latency_ms=232
+I (105854) freddy_person: PERSON t_ms=104889 score=0.740 cx=221 cy=145 box=123,52,319,239 frame=320,240 latency_ms=232
+I (106104) freddy_person: PERSON t_ms=105140 score=0.702 cx=251 cy=146 box=183,54,319,239 frame=320,240 latency_ms=232
+I (106354) freddy_person: PERSON t_ms=105390 score=0.593 cx=250 cy=147 box=185,55,316,239 frame=320,240 latency_ms=232
+Saved /Users/joshua/Code/3d-creations/freddy_fazbear_digital_eyes/hardware/camera-captures/person-detector-left.log; 32 person detections

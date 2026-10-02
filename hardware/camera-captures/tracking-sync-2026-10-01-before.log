@@ -1,0 +1,240 @@
+0.049 camera I (82407) freddy_person: NO_PERSON t_ms=81334 frame=320,240 lateI (110287) freddy_person: NO_PERSON t_ms=109217 frame=320,240 latency_ms=239 rejected_full_frame=1
+0.111 eye-2 GAZE_ACCEPT board=2 seq=431 x=500 y=500 valid=0
+0.122 eye-1 GAZE_ACCEPT board=1 seq=431 x=500 y=500 valid=0
+0.303 camera I (110547) freddy_person: PERSON t_ms=109471 score=0.405 cx=161 cy=158 box=114,77,208,239 frame=320,240 latency_ms=233 gaze_valid=0
+0.352 eye-2 GAZE_ACCEPT board=2 seq=432 x=504 y=661 valid=0
+0.366 eye-1 GAZE_ACCEPT board=1 seq=432 x=504 y=661 valid=0
+0.556 camera I (110797) freddy_person: PERSON t_ms=109725 score=0.468 cx=209 cy=119 box=99,0,319,239 frame=320,240 latency_ms=237 gaze_valid=0
+0.602 eye-2 GAZE_ACCEPT board=2 seq=433 x=655 y=497 valid=0
+0.615 eye-1 GAZE_ACCEPT board=1 seq=433 x=655 y=497 valid=0
+0.806 camera I (111047) freddy_person: PERSON t_ms=109973 score=0.375 cx=212 cy=119 box=105,0,319,239 frame=320,240 latency_ms=235 gaze_valid=1
+0.843 eye-2 GAZE_ACCEPT board=2 seq=434 x=664 y=497 valid=1
+1.025 eye-1 GAZE_ACCEPT board=1 seq=434 x=664 y=497 valid=1
+1.051 camera I (111297) freddy_person: PERSON t_ms=110223 score=0.385 cx=214 cy=119 box=109,0,319,239 frame=320,240 latency_ms=235 gaze_valid=1
+1.109 eye-2 GAZE_ACCEPT board=2 seq=435 x=670 y=497 valid=1
+1.121 eye-1 GAZE_ACCEPT board=1 seq=435 x=670 y=497 valid=1
+1.306 camera I (111547) freddy_person: PERSON t_ms=110473 score=0.424 cx=217 cy=156 box=115,74,319,239 frame=320,240 latency_ms=235 gaze_valid=1
+1.367 eye-2 GAZE_ACCEPT board=2 seq=436 x=680 y=652 valid=1
+1.379 eye-1 GAZE_ACCEPT board=1 seq=436 x=680 y=652 valid=1
+1.548 camera I (111797) freddy_person: PERSON t_ms=110722 score=0.415 cx=215 cy=153 box=111,67,319,239 frame=320,240 latency_ms=234 gaze_valid=1
+1.584 eye-1 GAZE_ACCEPT board=1 seq=437 x=673 y=640 valid=1
+1.814 camera I (112047) freddy_person: PERSON t_ms=110974 score=0.395 cx=210 cy=119 box=101,0,319,239 frame=320,240 latency_ms=236 gaze_valid=1
+1.851 eye-2 GAZE_ACCEPT board=2 seq=437 x=673 y=640 valid=1
+1.851 eye-2 GAZE_ACCEPT board=2 seq=438 x=658 y=497 valid=1
+2.057 camera I (112297) freddy_person: NO_PERSON t_ms=111224 frame=320,240 latency_ms=236 rejected_full_frame=1
+2.118 eye-2 GAZE_ACCEPT board=2 seq=439 x=500 y=500 valid=0
+2.118 eye-1 GAZE_ACCEPT board=1 seq=438 x=658 y=497 valid=1
+2.118 eye-1 GAZE_ACCEPT board=1 seq=439 x=500 y=500 valid=0
+2.307 camera I (112547) freddy_person: PERSON t_ms=111475 score=0.442 cx=160 cy=158 box=113,77,207,239 frame=320,240 latency_ms=237 gaze_valid=0
+2.354 eye-2 GAZE_ACCEPT board=2 seq=440 x=501 y=661 valid=0
+2.354 eye-1 GAZE_ACCEPT board=1 seq=440 x=501 y=661 valid=0
+2.551 camera I (112797) freddy_person: NO_PERSON t_ms=111723 frame=320,240 latency_ms=235 rejected_full_frame=0
+2.608 eye-2 GAZE_ACCEPT board=2 seq=441 x=500 y=500 valid=0
+2.608 eye-1 GAZE_ACCEPT board=1 seq=441 x=500 y=500 valid=0
+2.802 camera I (113047) freddy_person: PERSON t_ms=111975 score=0.433 cx=212 cy=119 box=106,0,319,239 frame=320,240 latency_ms=237 gaze_valid=0
+2.848 eye-1 GAZE_ACCEPT board=1 seq=442 x=664 y=497 valid=0
+3.051 camera I (113297) freddy_person: NO_PERSON t_ms=112223 frame=320,240 latency_ms=235 rejected_full_frame=1
+3.099 eye-2 GAZE_ACCEPT board=2 seq=442 x=664 y=497 valid=0
+3.099 eye-2 GAZE_ACCEPT board=2 seq=443 x=500 y=500 valid=0
+3.099 eye-1 GAZE_ACCEPT board=1 seq=443 x=500 y=500 valid=0
+3.303 camera I (113547) freddy_person: PERSON t_ms=112473 score=0.451 cx=185 cy=119 box=52,0,319,239 frame=320,240 latency_ms=235 gaze_valid=0
+3.337 eye-2 GAZE_ACCEPT board=2 seq=444 x=579 y=497 valid=0
+3.337 eye-1 GAZE_ACCEPT board=1 seq=444 x=579 y=497 valid=0
+3.552 camera I (113797) freddy_person: PERSON t_ms=112725 score=0.433 cx=212 cy=119 box=105,0,319,239 frame=320,240 latency_ms=237 gaze_valid=0
+3.575 eye-1 GAZE_ACCEPT board=1 seq=445 x=664 y=497 valid=0
+3.804 camera I (114047) freddy_person: NO_PERSON t_ms=112973 frame=320,240 latency_ms=235 rejected_full_frame=0
+3.826 eye-2 GAZE_ACCEPT board=2 seq=445 x=664 y=497 valid=0
+3.826 eye-2 GAZE_ACCEPT board=2 seq=446 x=500 y=500 valid=0
+3.826 eye-1 GAZE_ACCEPT board=1 seq=446 x=500 y=500 valid=0
+4.061 camera I (114297) freddy_person: NO_PERSON t_ms=113224 frame=320,240 latency_ms=236 rejected_full_frame=1
+4.073 eye-2 GAZE_ACCEPT board=2 seq=447 x=500 y=500 valid=0
+4.073 eye-1 GAZE_ACCEPT board=1 seq=447 x=500 y=500 valid=0
+4.306 camera I (114547) freddy_person: PERSON t_ms=113475 score=0.433 cx=207 cy=119 box=95,0,319,239 frame=320,240 latency_ms=237 gaze_valid=0
+4.319 eye-1 GAZE_ACCEPT board=1 seq=448 x=648 y=497 valid=0
+4.556 camera I (114797) freddy_person: PERSON t_ms=113724 score=0.385 cx=160 cy=158 box=114,77,206,239 frame=320,240 latency_ms=236 gaze_valid=0
+4.556 eye-1 GAZE_ACCEPT board=1 seq=449 x=501 y=661 valid=0
+4.568 eye-2 GAZE_ACCEPT board=2 seq=448 x=648 y=497 valid=0
+4.568 eye-2 GAZE_ACCEPT board=2 seq=449 x=501 y=661 valid=0
+4.809 camera I (115047) freddy_person: PERSON t_ms=113973 score=0.405 cx=159 cy=156 box=109,74,210,239 frame=320,240 latency_ms=236 gaze_valid=1
+4.886 eye-2 GAZE_ACCEPT board=2 seq=450 x=498 y=652 valid=1
+4.887 eye-1 GAZE_ACCEPT board=1 seq=450 x=498 y=652 valid=1
+5.060 eye-2 GAZE_ACCEPT board=2 seq=451 x=510 y=652 valid=1
+5.060 camera I (115297) freddy_person: PERSON t_ms=114226 score=0.415 cx=163 cy=156 box=114,74,212,238 frame=320,240 latency_ms=238 gaze_valid=1
+5.060 eye-1 GAZE_ACCEPT board=1 seq=451 x=510 y=652 valid=1
+5.306 camera I (115547) freddy_person: PERSON t_ms=114473 score=0.385 cx=162 cy=155 box=114,72,210,239 frame=320,240 latency_ms=235 gaze_valid=1
+5.318 eye-1 GAZE_ACCEPT board=1 seq=452 x=507 y=648 valid=1
+5.330 eye-2 GAZE_ACCEPT board=2 seq=452 x=507 y=648 valid=1
+5.556 camera I (115797) freddy_person: PERSON t_ms=114722 score=0.375 cx=211 cy=120 box=104,1,319,239 frame=320,240 latency_ms=234 gaze_valid=1
+5.582 eye-2 GAZE_ACCEPT board=2 seq=453 x=661 y=502 valid=1
+5.582 eye-1 GAZE_ACCEPT board=1 seq=453 x=661 y=502 valid=1
+5.801 camera I (116047) freddy_person: PERSON t_ms=114972 score=0.424 cx=217 cy=157 box=115,76,319,239 frame=320,240 latency_ms=234 gaze_valid=1
+5.842 eye-2 GAZE_ACCEPT board=2 seq=454 x=680 y=656 valid=1
+5.842 eye-1 GAZE_ACCEPT board=1 seq=454 x=680 y=656 valid=1
+6.056 camera I (116297) freddy_person: PERSON t_ms=115223 score=0.459 cx=163 cy=156 box=116,73,210,239 frame=320,240 latency_ms=236 gaze_valid=1
+6.129 eye-2 GAZE_ACCEPT board=2 seq=455 x=510 y=652 valid=1
+6.130 eye-1 GAZE_ACCEPT board=1 seq=455 x=510 y=652 valid=1
+6.310 camera I (116547) freddy_person: PERSON t_ms=115476 score=0.415 cx=162 cy=157 box=114,75,210,239 frame=320,240 latency_ms=237 gaze_valid=1
+6.322 eye-2 GAZE_ACCEPT board=2 seq=456 x=507 y=656 valid=1
+6.322 eye-1 GAZE_ACCEPT board=1 seq=456 x=507 y=656 valid=1
+6.558 camera I (116797) freddy_person: PERSON t_ms=115723 score=0.385 cx=161 cy=155 box=114,72,209,239 frame=320,240 latency_ms=235 gaze_valid=1
+6.582 eye-1 GAZE_ACCEPT board=1 seq=457 x=504 y=648 valid=1
+6.595 eye-2 GAZE_ACCEPT board=2 seq=457 x=504 y=648 valid=1
+6.809 camera I (117047) freddy_person: NO_PERSON t_ms=115974 frame=320,240 latency_ms=236 rejected_full_frame=0
+6.847 eye-2 GAZE_ACCEPT board=2 seq=458 x=500 y=500 valid=0
+6.847 eye-1 GAZE_ACCEPT board=1 seq=458 x=500 y=500 valid=0
+7.048 camera I (117297) freddy_person: NO_PERSON t_ms=116221 frame=320,240 latency_ms=233 rejected_full_frame=0
+7.094 eye-2 GAZE_ACCEPT board=2 seq=459 x=500 y=500 valid=0
+7.094 eye-1 GAZE_ACCEPT board=1 seq=459 x=500 y=500 valid=0
+7.306 camera I (117547) freddy_person: PERSON t_ms=116473 score=0.424 cx=205 cy=119 box=92,0,319,239 frame=320,240 latency_ms=235 gaze_valid=0
+7.331 eye-2 GAZE_ACCEPT board=2 seq=460 x=642 y=497 valid=0
+7.331 eye-1 GAZE_ACCEPT board=1 seq=460 x=642 y=497 valid=0
+7.556 camera I (117797) freddy_person: NO_PERSON t_ms=116721 frame=320,240 latency_ms=233 rejected_full_frame=0
+7.589 eye-2 GAZE_ACCEPT board=2 seq=461 x=500 y=500 valid=0
+7.602 eye-1 GAZE_ACCEPT board=1 seq=461 x=500 y=500 valid=0
+7.807 camera I (118047) freddy_person: PERSON t_ms=116974 score=0.405 cx=181 cy=119 box=43,0,319,239 frame=320,240 latency_ms=236 gaze_valid=0
+7.818 eye-2 GAZE_ACCEPT board=2 seq=462 x=567 y=497 valid=0
+7.853 eye-1 GAZE_ACCEPT board=1 seq=462 x=567 y=497 valid=0
+8.050 camera I (118297) freddy_person: PERSON t_ms=117222 score=0.385 cx=212 cy=120 box=106,1,319,239 frame=320,240 latency_ms=234 gaze_valid=0
+8.097 eye-1 GAZE_ACCEPT board=1 seq=463 x=664 y=502 valid=0
+8.302 camera I (118547) freddy_person: PERSON t_ms=117474 score=0.405 cx=158 cy=155 box=110,71,207,239 frame=320,240 latency_ms=236 gaze_valid=1
+8.312 eye-2 GAZE_ACCEPT board=2 seq=463 x=664 y=502 valid=0
+8.312 eye-2 GAZE_ACCEPT board=2 seq=464 x=495 y=648 valid=1
+8.336 eye-1 GAZE_ACCEPT board=1 seq=464 x=495 y=648 valid=1
+8.554 camera I (118797) freddy_person: PERSON t_ms=117724 score=0.395 cx=162 cy=157 box=112,76,212,239 frame=320,240 latency_ms=236 gaze_valid=1
+8.577 eye-2 GAZE_ACCEPT board=2 seq=465 x=507 y=656 valid=1
+8.603 eye-1 GAZE_ACCEPT board=1 seq=465 x=507 y=656 valid=1
+8.800 camera I (119047) freddy_person: NO_PERSON t_ms=117973 frame=320,240 latency_ms=235 rejected_full_frame=0
+8.836 eye-2 GAZE_ACCEPT board=2 seq=466 x=500 y=500 valid=0
+8.861 eye-1 GAZE_ACCEPT board=1 seq=466 x=500 y=500 valid=0
+9.057 camera I (119297) freddy_person: NO_PERSON t_ms=118224 frame=320,240 latency_ms=236 rejected_full_frame=0
+9.082 eye-2 GAZE_ACCEPT board=2 seq=467 x=500 y=500 valid=0
+9.106 eye-1 GAZE_ACCEPT board=1 seq=467 x=500 y=500 valid=0
+9.304 camera I (119547) freddy_person: PERSON t_ms=118472 score=0.364 cx=209 cy=119 box=99,0,319,239 frame=320,240 latency_ms=234 gaze_valid=0
+9.314 eye-2 GAZE_ACCEPT board=2 seq=468 x=655 y=497 valid=0
+9.349 eye-1 GAZE_ACCEPT board=1 seq=468 x=655 y=497 valid=0
+9.553 camera I (119797) freddy_person: PERSON t_ms=118723 score=0.395 cx=156 cy=155 box=103,71,210,239 frame=320,240 latency_ms=235 gaze_valid=0
+9.565 eye-2 GAZE_ACCEPT board=2 seq=469 x=489 y=648 valid=0
+9.595 eye-1 GAZE_ACCEPT board=1 seq=469 x=489 y=648 valid=0
+9.810 eye-2 GAZE_ACCEPT board=2 seq=470 x=500 y=500 valid=0
+9.810 camera I (120047) freddy_person: NO_PERSON t_ms=118973 frame=320,240 latency_ms=235 rejected_full_frame=0
+9.833 eye-1 GAZE_ACCEPT board=1 seq=470 x=500 y=500 valid=0
+10.061 camera I (120297) freddy_person: PERSON t_ms=119223 score=0.405 cx=161 cy=158 box=115,78,208,239 frame=320,240 latency_ms=235 gaze_valid=0
+10.112 eye-1 GAZE_ACCEPT board=1 seq=471 x=504 y=661 valid=0
+10.136 eye-2 GAZE_ACCEPT board=2 seq=471 x=504 y=661 valid=0
+10.299 camera I (120547) freddy_person: PERSON t_ms=119472 score=0.451 cx=212 cy=119 box=105,0,319,239 frame=320,240 latency_ms=234 gaze_valid=0
+10.311 eye-1 GAZE_ACCEPT board=1 seq=472 x=664 y=497 valid=0
+10.324 eye-2 GAZE_ACCEPT board=2 seq=472 x=664 y=497 valid=0
+10.548 camera I (120797) freddy_person: PERSON t_ms=119721 score=0.375 cx=211 cy=119 box=104,0,319,239 frame=320,240 latency_ms=233 gaze_valid=1
+10.575 eye-2 GAZE_ACCEPT board=2 seq=473 x=661 y=497 valid=1
+10.636 eye-1 GAZE_ACCEPT board=1 seq=473 x=661 y=497 valid=1
+10.803 camera I (121047) freddy_person: NO_PERSON t_ms=119973 frame=320,240 latency_ms=235 rejected_full_frame=0
+10.877 eye-2 GAZE_ACCEPT board=2 seq=474 x=500 y=500 valid=0
+11.057 camera I (121297) freddy_person: PERSON t_ms=120222 score=0.395 cx=214 cy=155 box=110,71,319,239 frame=320,240 latency_ms=234 gaze_valid=0
+11.094 eye-1 GAZE_ACCEPT board=1 seq=474 x=500 y=500 valid=0
+11.094 eye-1 GAZE_ACCEPT board=1 seq=475 x=670 y=648 valid=0
+11.130 eye-2 GAZE_ACCEPT board=2 seq=475 x=670 y=648 valid=0
+11.308 camera I (121547) freddy_person: PERSON t_ms=120475 score=0.395 cx=213 cy=155 box=107,72,319,239 frame=320,240 latency_ms=237 gaze_valid=0
+11.335 eye-1 GAZE_ACCEPT board=1 seq=476 x=667 y=648 valid=0
+11.370 eye-2 GAZE_ACCEPT board=2 seq=476 x=667 y=648 valid=0
+11.558 camera I (121797) freddy_person: PERSON t_ms=120726 score=0.395 cx=209 cy=156 box=99,73,319,239 frame=320,240 latency_ms=237 gaze_valid=1
+11.584 eye-1 GAZE_ACCEPT board=1 seq=477 x=655 y=652 valid=1
+11.619 eye-2 GAZE_ACCEPT board=2 seq=477 x=655 y=652 valid=1
+11.811 camera I (122047) freddy_person: NO_PERSON t_ms=120974 frame=320,240 latency_ms=236 rejected_full_frame=0
+11.849 eye-1 GAZE_ACCEPT board=1 seq=478 x=500 y=500 valid=0
+11.872 eye-2 GAZE_ACCEPT board=2 seq=478 x=500 y=500 valid=0
+12.055 camera I (122297) freddy_person: NO_PERSON t_ms=121221 frame=320,240 latency_ms=233 rejected_full_frame=0
+12.092 eye-1 GAZE_ACCEPT board=1 seq=479 x=500 y=500 valid=0
+12.302 camera I (122547) freddy_person: PERSON t_ms=121472 score=0.459 cx=158 cy=158 box=110,77,207,239 frame=320,240 latency_ms=234 gaze_valid=0
+12.336 eye-1 GAZE_ACCEPT board=1 seq=480 x=495 y=661 valid=0
+12.360 eye-2 GAZE_ACCEPT board=2 seq=479 x=500 y=500 valid=0
+12.360 eye-2 GAZE_ACCEPT board=2 seq=480 x=495 y=661 valid=0
+12.557 camera I (122797) freddy_person: PERSON t_ms=121724 score=0.468 cx=158 cy=155 box=109,72,207,239 frame=320,240 latency_ms=236 gaze_valid=0
+12.581 eye-1 GAZE_ACCEPT board=1 seq=481 x=495 y=648 valid=0
+12.605 eye-2 GAZE_ACCEPT board=2 seq=481 x=495 y=648 valid=0
+12.802 camera I (123047) freddy_person: PERSON t_ms=121973 score=0.424 cx=213 cy=154 box=108,70,319,239 frame=320,240 latency_ms=236 gaze_valid=1
+12.824 eye-1 GAZE_ACCEPT board=1 seq=482 x=667 y=644 valid=1
+12.848 eye-2 GAZE_ACCEPT board=2 seq=482 x=667 y=644 valid=1
+13.058 camera I (123297) freddy_person: PERSON t_ms=122224 score=0.385 cx=213 cy=154 box=108,70,319,239 frame=320,240 latency_ms=235 gaze_valid=1
+13.081 eye-1 GAZE_ACCEPT board=1 seq=483 x=667 y=644 valid=1
+13.111 eye-2 GAZE_ACCEPT board=2 seq=483 x=667 y=644 valid=1
+13.303 camera I (123547) freddy_person: PERSON t_ms=122472 score=0.476 cx=160 cy=157 box=113,76,207,239 frame=320,240 latency_ms=235 gaze_valid=1
+13.339 eye-1 GAZE_ACCEPT board=1 seq=484 x=501 y=656 valid=1
+13.373 eye-2 GAZE_ACCEPT board=2 seq=484 x=501 y=656 valid=1
+13.552 camera I (123797) freddy_person: NO_PERSON t_ms=122722 frame=320,240 latency_ms=234 rejected_full_frame=0
+13.600 eye-1 GAZE_ACCEPT board=1 seq=485 x=500 y=500 valid=0
+13.805 camera I (124047) freddy_person: PERSON t_ms=122971 score=0.385 cx=186 cy=119 box=53,0,319,239 frame=320,240 latency_ms=233 gaze_valid=0
+13.840 eye-1 GAZE_ACCEPT board=1 seq=486 x=583 y=497 valid=0
+13.876 eye-2 GAZE_ACCEPT board=2 seq=485 x=500 y=500 valid=0
+13.876 eye-2 GAZE_ACCEPT board=2 seq=486 x=583 y=497 valid=0
+14.059 camera I (124297) freddy_person: NO_PERSON t_ms=123223 frame=320,240 latency_ms=235 rejected_full_frame=0
+14.093 eye-1 GAZE_ACCEPT board=1 seq=487 x=500 y=500 valid=0
+14.118 eye-2 GAZE_ACCEPT board=2 seq=487 x=500 y=500 valid=0
+14.309 camera I (124547) freddy_person: PERSON t_ms=123475 score=0.415 cx=160 cy=158 box=114,78,207,239 frame=320,240 latency_ms=237 gaze_valid=0
+14.334 eye-1 GAZE_ACCEPT board=1 seq=488 x=501 y=661 valid=0
+14.548 camera I (124797) freddy_person: PERSON t_ms=123722 score=0.552 cx=160 cy=157 box=114,75,207,239 frame=320,240 latency_ms=234 gaze_valid=0
+14.574 eye-1 GAZE_ACCEPT board=1 seq=489 x=501 y=656 valid=0
+14.612 eye-2 GAZE_ACCEPT board=2 seq=488 x=501 y=661 valid=0
+14.612 eye-2 GAZE_ACCEPT board=2 seq=489 x=501 y=656 valid=0
+14.803 camera I (125047) freddy_person: PERSON t_ms=123974 score=0.415 cx=158 cy=157 box=109,76,207,239 frame=320,240 latency_ms=236 gaze_valid=1
+14.815 eye-1 GAZE_ACCEPT board=1 seq=490 x=495 y=656 valid=1
+14.853 eye-2 GAZE_ACCEPT board=2 seq=490 x=495 y=656 valid=1
+15.054 camera I (125297) freddy_person: PERSON t_ms=124224 score=0.375 cx=159 cy=156 box=112,74,207,239 frame=320,240 latency_ms=236 gaze_valid=1
+15.079 eye-1 GAZE_ACCEPT board=1 seq=491 x=498 y=652 valid=1
+15.115 eye-2 GAZE_ACCEPT board=2 seq=491 x=498 y=652 valid=1
+15.311 camera I (125547) freddy_person: PERSON t_ms=124477 score=0.451 cx=161 cy=155 box=113,71,209,239 frame=320,240 latency_ms=239 gaze_valid=1
+15.382 eye-1 GAZE_ACCEPT board=1 seq=492 x=504 y=648 valid=1
+15.423 eye-2 GAZE_ACCEPT board=2 seq=492 x=504 y=648 valid=1
+15.563 camera I (125807) freddy_person: PERSON t_ms=124732 score=0.364 cx=213 cy=154 box=108,70,319,239 frame=320,240 latency_ms=234 gaze_valid=1
+15.600 eye-2 GAZE_ACCEPT board=2 seq=493 x=667 y=644 valid=1
+15.647 eye-1 GAZE_ACCEPT board=1 seq=493 x=667 y=644 valid=1
+15.812 camera I (126057) freddy_person: NO_PERSON t_ms=124982 frame=320,240 latency_ms=234 rejected_full_frame=0
+15.824 eye-1 GAZE_ACCEPT board=1 seq=494 x=500 y=500 valid=0
+15.849 eye-2 GAZE_ACCEPT board=2 seq=494 x=500 y=500 valid=0
+16.066 camera I (126307) freddy_person: PERSON t_ms=125236 score=0.451 cx=215 cy=156 box=111,73,319,239 frame=320,240 latency_ms=238 gaze_valid=0
+16.104 eye-2 GAZE_ACCEPT board=2 seq=495 x=673 y=652 valid=0
+16.154 eye-1 GAZE_ACCEPT board=1 seq=495 x=673 y=652 valid=0
+16.316 camera I (126557) freddy_person: PERSON t_ms=125485 score=0.385 cx=214 cy=154 box=110,70,319,239 frame=320,240 latency_ms=237 gaze_valid=0
+16.351 eye-2 GAZE_ACCEPT board=2 seq=496 x=670 y=644 valid=0
+16.389 eye-1 GAZE_ACCEPT board=1 seq=496 x=670 y=644 valid=0
+16.570 camera I (126807) freddy_person: PERSON t_ms=125734 score=0.424 cx=214 cy=156 box=110,74,319,239 frame=320,240 latency_ms=236 gaze_valid=1
+16.595 eye-2 GAZE_ACCEPT board=2 seq=497 x=670 y=652 valid=1
+16.644 eye-1 GAZE_ACCEPT board=1 seq=497 x=670 y=652 valid=1
+16.817 camera I (127057) freddy_person: PERSON t_ms=125983 score=0.395 cx=160 cy=156 box=110,74,210,239 frame=320,240 latency_ms=235 gaze_valid=1
+16.903 eye-1 GAZE_ACCEPT board=1 seq=498 x=501 y=652 valid=1
+17.064 camera I (127307) freddy_person: PERSON t_ms=126234 score=0.468 cx=159 cy=157 box=111,75,207,239 frame=320,240 latency_ms=236 gaze_valid=1
+17.077 eye-1 GAZE_ACCEPT board=1 seq=499 x=498 y=656 valid=1
+17.117 eye-2 GAZE_ACCEPT board=2 seq=498 x=501 y=652 valid=1
+17.117 eye-2 GAZE_ACCEPT board=2 seq=499 x=498 y=656 valid=1
+17.316 camera I (127557) freddy_person: PERSON t_ms=126482 score=0.405 cx=158 cy=157 box=109,75,207,239 frame=320,240 latency_ms=234 gaze_valid=1
+17.327 eye-1 GAZE_ACCEPT board=1 seq=500 x=495 y=656 valid=1
+17.377 eye-2 GAZE_ACCEPT board=2 seq=500 x=495 y=656 valid=1
+17.560 camera I (127807) freddy_person: PERSON t_ms=126732 score=0.442 cx=160 cy=157 box=114,75,207,239 frame=320,240 latency_ms=235 gaze_valid=1
+17.587 eye-1 GAZE_ACCEPT board=1 seq=501 x=501 y=656 valid=1
+17.636 eye-2 GAZE_ACCEPT board=2 seq=501 x=501 y=656 valid=1
+17.815 camera I (128057) freddy_person: PERSON t_ms=126984 score=0.424 cx=214 cy=155 box=109,72,319,239 frame=320,240 latency_ms=236 gaze_valid=1
+17.851 eye-1 GAZE_ACCEPT board=1 seq=502 x=670 y=648 valid=1
+18.071 eye-2 GAZE_ACCEPT board=2 seq=502 x=670 y=648 valid=1
+18.071 eye-2 GAZE_ACCEPT board=2 seq=503 x=677 y=648 valid=1
+18.071 camera I (128307) freddy_person: PERSON t_ms=127235 score=0.442 cx=216 cy=155 box=113,72,319,239 frame=320,240 latency_ms=237 gaze_valid=1
+18.116 eye-1 GAZE_ACCEPT board=1 seq=503 x=677 y=648 valid=1
+18.314 camera I (128557) freddy_person: NO_PERSON t_ms=127484 frame=320,240 latency_ms=236 rejected_full_frame=0
+18.339 eye-2 GAZE_ACCEPT board=2 seq=504 x=500 y=500 valid=0
+18.376 eye-1 GAZE_ACCEPT board=1 seq=504 x=500 y=500 valid=0
+18.562 camera I (128807) freddy_person: PERSON t_ms=127732 score=0.375 cx=214 cy=153 box=110,68,319,239 frame=320,240 latency_ms=235 gaze_valid=0
+18.573 eye-2 GAZE_ACCEPT board=2 seq=505 x=670 y=640 valid=0
+18.622 eye-1 GAZE_ACCEPT board=1 seq=505 x=670 y=640 valid=0
+18.809 camera I (129057) freddy_person: PERSON t_ms=127982 score=0.385 cx=157 cy=156 box=104,73,211,239 frame=320,240 latency_ms=234 gaze_valid=0
+18.822 eye-2 GAZE_ACCEPT board=2 seq=506 x=492 y=652 valid=0
+18.859 eye-1 GAZE_ACCEPT board=1 seq=506 x=492 y=652 valid=0
+19.062 camera I (129307) freddy_person: PERSON t_ms=128235 score=0.405 cx=159 cy=156 box=107,73,211,239 frame=320,240 latency_ms=237 gaze_valid=1
+19.110 eye-1 GAZE_ACCEPT board=1 seq=507 x=498 y=652 valid=1
+19.148 eye-2 GAZE_ACCEPT board=2 seq=507 x=498 y=652 valid=1
+19.315 eye-2 GAZE_ACCEPT board=2 seq=508 x=498 y=656 valid=1
+19.316 camera I (129557) freddy_person: PERSON t_ms=128482 score=0.442 cx=159 cy=157 box=111,75,207,239 frame=320,240 latency_ms=234 gaze_valid=1
+19.566 camera I (129807) freddy_person: PERSON t_ms=128731 score=0.395 cx=161 cy=157 box=115,76,208,239 frame=320,240 latency_ms=233 gaze_valid=1
+19.577 eye-2 GAZE_ACCEPT board=2 seq=509 x=504 y=656 valid=1
+19.624 eye-1 GAZE_ACCEPT board=1 seq=508 x=498 y=656 valid=1
+19.624 eye-1 GAZE_ACCEPT board=1 seq=509 x=504 y=656 valid=1
+19.818 camera I (130057) freddy_person: NO_PERSON t_ms=128985 frame=320,240 latency_ms=237 rejected_full_frame=1
+19.841 eye-2 GAZE_ACCEPT board=2 seq=510 x=500 y=500 valid=0
+19.900 eye-1 GAZE_ACCEPT board=1 seq=510 x=500 y=500 valid=0

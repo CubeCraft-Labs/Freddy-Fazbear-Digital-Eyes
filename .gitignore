@@ -1,0 +1,25 @@
+# Downloaded vendor examples and local build artifacts are reproducible.
+vendor/ESP32-S3-Touch-LCD-2.1-Demo.zip
+vendor/extracted/
+vendor/build/
+vendor/build-attempt.log
+vendor/ctags-5.8-arduino11.zip
+vendor/ctags-5.8-arduino11/
+vendor/ctags-tool/
+firmware/backups/*.bin
+firmware/build-eye-test/
+firmware/build-eye-test.log
+firmware/build-eye-test-board2/
+firmware/build-eye-test-board2.log
+firmware/build-tf-luna-bench/
+firmware/build-tf-luna-bench.log
+firmware/build-benewake-range-bench/
+firmware/build-benewake-range-bench.log
+firmware/build-camera-bringup/
+firmware/build-camera-bringup.log
+firmware/camera_person_idf/build/
+firmware/camera_person_idf/managed_components/
+firmware/camera_person_idf/sdkconfig
+vendor/Person_Detection_inferencing.zip
+__pycache__/
+firmware/private/

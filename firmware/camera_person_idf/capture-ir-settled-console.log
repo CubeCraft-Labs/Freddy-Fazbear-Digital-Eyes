@@ -1,0 +1,13 @@
+I (50974) freddy_person: PERSON t_ms=50017 score=0.375 cx=215 cyI (73984) freddy_person: NO_PERSON t_ms=73027 frame=320,240 latency_ms=229
+I (74234) freddy_person: PERSON t_ms=73277 score=0.364 cx=212 cy=119 box=105,0,319,239 frame=320,240 latency_ms=229
+I (74494) freddy_person: PERSON t_ms=73527 score=0.385 cx=216 cy=119 box=113,0,319,239 frame=320,240 latency_ms=230
+I (75984) freddy_person: PERSON t_ms=75027 score=0.375 cx=216 cy=117 box=113,0,319,235 frame=320,240 latency_ms=229
+I (76494) freddy_person: PERSON t_ms=75527 score=0.424 cx=214 cy=119 box=110,0,319,239 frame=320,240 latency_ms=230
+I (76734) freddy_person: PERSON t_ms=75777 score=0.385 cx=214 cy=119 box=110,0,319,239 frame=320,240 latency_ms=229
+I (77244) freddy_person: PERSON t_ms=76277 score=0.424 cx=214 cy=119 box=110,0,319,239 frame=320,240 latency_ms=230
+Saved /Users/joshua/Code/3d-creations/freddy_fazbear_digital_eyes/hardware/camera-captures/person-detector-ir-settled-frame-301.jpg (2942 bytes)
+I (79794) freddy_person: PERSON t_ms=78837 score=0.385 cx=213 cy=119 box=107,0,319,239 frame=320,240 latency_ms=229
+I (80554) freddy_person: PERSON t_ms=79588 score=0.433 cx=214 cy=119 box=109,0,319,239 frame=320,240 latency_ms=230
+I (80804) freddy_person: PERSON t_ms=79838 score=0.405 cx=214 cy=119 box=110,0,319,239 frame=320,240 latency_ms=230
+I (81044) freddy_person: PERSON t_ms=80087 score=0.375 cx=215 cy=119 box=111,0,319,239 frame=320,240 latency_ms=229
+Saved /Users/joshua/Code/3d-creations/freddy_fazbear_digital_eyes/hardware/camera-captures/person-detector-ir-settled.log; 11 person detections

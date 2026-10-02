@@ -1,0 +1,51 @@
+I (123) esp_image: segment 1: paddr=000933e4 vaddr=3fc98900 sizeI (38744) freddy_person: PERSON t_ms=37780 score=0.862 cx=68 cy=145 box=0,51,136,239 frame=320,240 latency_ms=233
+I (38994) freddy_person: PERSON t_ms=38031 score=0.810 cx=61 cy=145 box=0,51,123,239 frame=320,240 latency_ms=233
+I (39244) freddy_person: PERSON t_ms=38281 score=0.824 cx=63 cy=143 box=0,48,127,239 frame=320,240 latency_ms=233
+I (39494) freddy_person: PERSON t_ms=38530 score=0.650 cx=62 cy=144 box=0,49,124,239 frame=320,240 latency_ms=233
+I (39744) freddy_person: PERSON t_ms=38781 score=0.661 cx=63 cy=144 box=0,50,127,239 frame=320,240 latency_ms=233
+I (39994) freddy_person: PERSON t_ms=39030 score=0.795 cx=65 cy=143 box=0,48,131,239 frame=320,240 latency_ms=233
+I (40244) freddy_person: PERSON t_ms=39280 score=0.707 cx=63 cy=142 box=0,46,127,239 frame=320,240 latency_ms=233
+I (40494) freddy_person: PERSON t_ms=39531 score=0.834 cx=66 cy=143 box=0,48,133,239 frame=320,240 latency_ms=233
+I (40744) freddy_person: PERSON t_ms=39781 score=0.843 cx=61 cy=143 box=1,48,122,239 frame=320,240 latency_ms=233
+I (40994) freddy_person: PERSON t_ms=40030 score=0.745 cx=63 cy=143 box=0,48,126,239 frame=320,240 latency_ms=233
+I (41244) freddy_person: PERSON t_ms=40280 score=0.829 cx=64 cy=144 box=0,50,129,239 frame=320,240 latency_ms=232
+I (41494) freddy_person: PERSON t_ms=40530 score=0.755 cx=60 cy=143 box=0,47,120,239 frame=320,240 latency_ms=232
+I (41744) freddy_person: PERSON t_ms=40780 score=0.765 cx=62 cy=142 box=0,46,124,239 frame=320,240 latency_ms=233
+I (41994) freddy_person: PERSON t_ms=41030 score=0.839 cx=63 cy=143 box=0,47,127,239 frame=320,240 latency_ms=232
+I (42244) freddy_person: PERSON t_ms=41279 score=0.897 cx=61 cy=140 box=0,41,123,239 frame=320,240 latency_ms=232
+I (42494) freddy_person: PERSON t_ms=41530 score=0.919 cx=61 cy=139 box=0,39,123,239 frame=320,240 latency_ms=233
+Saved /Users/joshua/Code/3d-creations/freddy_fazbear_digital_eyes/hardware/camera-captures/person-detector-right-image-frame-161.jpg (5650 bytes)
+I (42864) freddy_person: PERSON t_ms=41899 score=0.862 cx=61 cy=140 box=0,42,123,239 frame=320,240 latency_ms=351
+I (43114) freddy_person: PERSON t_ms=42150 score=0.884 cx=63 cy=141 box=0,44,126,239 frame=320,240 latency_ms=233
+I (43364) freddy_person: PERSON t_ms=42400 score=0.888 cx=62 cy=141 box=0,44,124,239 frame=320,240 latency_ms=233
+I (43614) freddy_person: PERSON t_ms=42649 score=0.829 cx=64 cy=140 box=0,42,128,239 frame=320,240 latency_ms=232
+I (43864) freddy_person: PERSON t_ms=42900 score=0.820 cx=64 cy=141 box=0,43,128,239 frame=320,240 latency_ms=232
+I (44114) freddy_person: PERSON t_ms=43150 score=0.910 cx=63 cy=141 box=0,43,126,239 frame=320,240 latency_ms=232
+I (44364) freddy_person: PERSON t_ms=43400 score=0.884 cx=63 cy=141 box=0,43,126,239 frame=320,240 latency_ms=232
+I (44614) freddy_person: PERSON t_ms=43650 score=0.910 cx=62 cy=140 box=0,42,124,239 frame=320,240 latency_ms=232
+I (44864) freddy_person: PERSON t_ms=43900 score=0.901 cx=62 cy=141 box=0,44,124,239 frame=320,240 latency_ms=233
+I (45114) freddy_person: PERSON t_ms=44150 score=0.888 cx=61 cy=140 box=0,42,123,239 frame=320,240 latency_ms=232
+I (45364) freddy_person: PERSON t_ms=44400 score=0.871 cx=62 cy=141 box=0,44,124,239 frame=320,240 latency_ms=232
+I (45614) freddy_person: PERSON t_ms=44650 score=0.781 cx=62 cy=141 box=0,44,124,239 frame=320,240 latency_ms=232
+I (45864) freddy_person: PERSON t_ms=44900 score=0.852 cx=62 cy=141 box=1,43,124,239 frame=320,240 latency_ms=232
+I (46114) freddy_person: PERSON t_ms=45151 score=0.879 cx=63 cy=141 box=0,44,127,239 frame=320,240 latency_ms=233
+I (46364) freddy_person: PERSON t_ms=45401 score=0.914 cx=64 cy=141 box=0,44,128,239 frame=320,240 latency_ms=233
+I (46614) freddy_person: PERSON t_ms=45651 score=0.906 cx=62 cy=142 box=0,46,125,239 frame=320,240 latency_ms=233
+I (46864) freddy_person: PERSON t_ms=45900 score=0.884 cx=62 cy=142 box=0,46,125,239 frame=320,240 latency_ms=232
+I (47114) freddy_person: PERSON t_ms=46150 score=0.871 cx=65 cy=143 box=0,47,131,239 frame=320,240 latency_ms=232
+I (47364) freddy_person: PERSON t_ms=46400 score=0.848 cx=62 cy=142 box=0,45,124,239 frame=320,240 latency_ms=233
+I (47614) freddy_person: PERSON t_ms=46650 score=0.734 cx=62 cy=141 box=0,44,124,239 frame=320,240 latency_ms=232
+Saved /Users/joshua/Code/3d-creations/freddy_fazbear_digital_eyes/hardware/camera-captures/person-detector-right-image-frame-181.jpg (5545 bytes)
+I (47974) freddy_person: PERSON t_ms=47017 score=0.834 cx=63 cy=142 box=0,46,127,239 frame=320,240 latency_ms=349
+I (48234) freddy_person: PERSON t_ms=47271 score=0.857 cx=61 cy=142 box=0,46,122,239 frame=320,240 latency_ms=233
+I (48484) freddy_person: PERSON t_ms=47520 score=0.857 cx=64 cy=142 box=0,45,128,239 frame=320,240 latency_ms=232
+I (48734) freddy_person: PERSON t_ms=47770 score=0.750 cx=63 cy=143 box=1,47,125,239 frame=320,240 latency_ms=232
+I (48984) freddy_person: PERSON t_ms=48020 score=0.871 cx=62 cy=142 box=0,46,125,239 frame=320,240 latency_ms=233
+I (49234) freddy_person: PERSON t_ms=48270 score=0.871 cx=61 cy=142 box=0,46,122,239 frame=320,240 latency_ms=233
+I (49484) freddy_person: PERSON t_ms=48519 score=0.857 cx=62 cy=143 box=0,47,124,239 frame=320,240 latency_ms=232
+I (49734) freddy_person: PERSON t_ms=48770 score=0.805 cx=62 cy=142 box=0,46,124,239 frame=320,240 latency_ms=233
+I (49984) freddy_person: PERSON t_ms=49020 score=0.786 cx=62 cy=142 box=0,45,125,239 frame=320,240 latency_ms=233
+I (50234) freddy_person: PERSON t_ms=49270 score=0.857 cx=62 cy=142 box=1,46,123,239 frame=320,240 latency_ms=233
+I (50484) freddy_person: PERSON t_ms=49520 score=0.866 cx=61 cy=142 box=0,45,123,239 frame=320,240 latency_ms=233
+I (50734) freddy_person: PERSON t_ms=49770 score=0.820 cx=61 cy=142 box=0,45,123,239 frame=320,240 latency_ms=232
+Saved /Users/joshua/Code/3d-creations/freddy_fazbear_digital_eyes/hardware/camera-captures/person-detector-right-image.log; 48 person detections

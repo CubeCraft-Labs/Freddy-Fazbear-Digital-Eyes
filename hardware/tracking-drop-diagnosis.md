@@ -1,0 +1,13 @@
+# Intermittent person lock — 2026-09-27
+
+Joshua reported that the camera finds a person but does not stay locked. He confirmed he was in the camera view during the live trace. The camera's person detector alternated `PERSON` and `NO_PERSON` roughly every 250 ms, and many bounding boxes were anchored to the top-left image edge (for example, `box=0,0,95,124` with score 0.433). The current three-frame gate clears immediately on `NO_PERSON`, which explains the `TRACK`/`IDLE` flicker. It also selects the highest-scoring box independently each frame, so it can jump between detections.
+
+A temporary JPEG diagnostic build produced [frame 41](camera-captures/tracking-drop-2026-09-27-frame-41.jpg), [frame 61](camera-captures/tracking-drop-2026-09-27-frame-61.jpg), [frame 81](camera-captures/tracking-drop-2026-09-27-frame-81.jpg), and the [paired log](camera-captures/tracking-drop-2026-09-27.log). The image shows mostly ceiling/window, with only part of Joshua at the far left edge; the view also appears sideways relative to an upright person. The detector's edge boxes match this poor framing. This is the primary issue to correct before tuning temporal tracking, because a hold filter would otherwise preserve an unreliable target.
+
+The diagnostic JPEG build was removed, and the previous normal camera application (SHA-256 `0acc763624b20a09afbf512e20afad51ffc9de4276102ffa639a0345d39d70a5`) was rebuilt, flashed, and hash-verified. No target-selection code changed in this diagnostic pass.
+
+Next: re-aim/rotate the camera so a person's head and upper body are upright and near image center at the intended approach distance. Capture a new image and 15–20 second movement trace. If detections still intermittently drop with good framing, add short miss hysteresis and spatial association to the existing target-selection logic, then retest empty-scene false positives and target departure.
+
+## Re-aimed retest
+
+Joshua re-aimed/rotated the camera and stood in view while moving left to right. In a 20-second three-board serial capture, the camera reported `PERSON` on all 80 results and `NO_PERSON` on none; 77 commands were `gaze_valid=1`, with three brief `gaze_valid=0` results from the current position-consistency gate. Both eye consoles received matching valid gaze sequences. Joshua then confirmed both eyes stayed on `TRACK` and followed throughout the movement. This resolves the observed bench lock loss by correcting the camera view, without changing the tracking code. Installed-position walk-bys and empty-scene false positives still need testing. A future hold/association filter should be judged against those tests, not inferred to be needed from the original poorly framed view alone.
