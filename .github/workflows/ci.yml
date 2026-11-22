@@ -1,0 +1,26 @@
+name: CI
+
+on:
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  host-tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Test the Pi protocol and tracking state
+        working-directory: firmware/pi_vision
+        run: python3 -m unittest -v test_gaze_link test_tracking_state
+      - name: Compile and run the portable C++ protocol tests
+        working-directory: firmware/shared
+        run: |
+          c++ -std=c++17 test_gaze_protocol.cpp -o "$RUNNER_TEMP/test_gaze_protocol"
+          "$RUNNER_TEMP/test_gaze_protocol"
+          c++ -std=c++17 test_tracking_gate.cpp -o "$RUNNER_TEMP/test_tracking_gate"
+          "$RUNNER_TEMP/test_tracking_gate"
